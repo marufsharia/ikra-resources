@@ -1,0 +1,1144 @@
+[
+  {
+    "number": 1,
+    "name": "سُورَةُ ٱلْفَاتِحَةِ",
+    "englishName": "Al-Faatiha",
+    "englishNameTranslation": "The Opening",
+    "banglaName": "সূরা ফাতিহা",
+    "banglaNameTranslation": "সূচনা",
+    "numberOfAyahs": 7,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 2,
+    "name": "سُورَةُ ٱلْبَقَرَةِ",
+    "englishName": "Al-Baqara",
+    "englishNameTranslation": "The Cow",
+    "banglaName": "সূরা বাকারা",
+    "banglaNameTranslation": "গাভী",
+    "numberOfAyahs": 286,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 3,
+    "name": "سُورَةُ آلِ عِمْرَانَ",
+    "englishName": "Aal-i-Imraan",
+    "englishNameTranslation": "The Family of Imraan",
+    "banglaName": "সূরা আল-ই-ইমরান",
+    "banglaNameTranslation": "ইমরানের পরিবার",
+    "numberOfAyahs": 200,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 4,
+    "name": "سُورَةُ ٱلنِّسَاءِ",
+    "englishName": "An-Nisaa",
+    "englishNameTranslation": "The Women",
+    "banglaName": "সূরা নিসা",
+    "banglaNameTranslation": "নারী",
+    "numberOfAyahs": 176,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 5,
+    "name": "سُورَةُ ٱلْمَائِدَةِ",
+    "englishName": "Al-Maaida",
+    "englishNameTranslation": "The Table",
+    "banglaName": "সূরা মায়িদাহ",
+    "banglaNameTranslation": "খাদ্য পরিবেশিত টেবিল",
+    "numberOfAyahs": 120,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 6,
+    "name": "سُورَةُ ٱلْأَنْعَامِ",
+    "englishName": "Al-An'aam",
+    "englishNameTranslation": "The Cattle",
+    "banglaName": "সূরা আল-আন'আম",
+    "banglaNameTranslation": "গবাদি পশু",
+    "numberOfAyahs": 165,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 7,
+    "name": "سُورَةُ ٱلْأَعْرَافِ",
+    "englishName": "Al-A'raaf",
+    "englishNameTranslation": "The Heights",
+    "banglaName": "সূরা আল-আ'রাফ",
+    "banglaNameTranslation": "উচ্চ স্থানসমূহ",
+    "numberOfAyahs": 206,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 8,
+    "name": "سُورَةُ ٱلْأَنْفَالِ",
+    "englishName": "Al-Anfaal",
+    "englishNameTranslation": "The Spoils of War",
+    "banglaName": "সূরা আল-আনফাল",
+    "banglaNameTranslation": "যুদ্ধলব্ধ সম্পদ",
+    "numberOfAyahs": 75,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 9,
+    "name": "سُورَةُ ٱلتَّوْبَةِ",
+    "englishName": "At-Tawba",
+    "englishNameTranslation": "The Repentance",
+    "banglaName": "সূরা আত-তাওবাহ",
+    "banglaNameTranslation": "অনুশোচনা",
+    "numberOfAyahs": 129,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 10,
+    "name": "سُورَةُ يُونُسَ",
+    "englishName": "Yunus",
+    "englishNameTranslation": "Jonas",
+    "banglaName": "সূরা ইউনুস",
+    "banglaNameTranslation": "ইউনুস (জোনাহ)",
+    "numberOfAyahs": 109,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 11,
+    "name": "سُورَةُ هُودٍ",
+    "englishName": "Hud",
+    "englishNameTranslation": "Hud",
+    "banglaName": "সূরা হুদ",
+    "banglaNameTranslation": "হুদ",
+    "numberOfAyahs": 123,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 12,
+    "name": "سُورَةُ يُوسُفَ",
+    "englishName": "Yusuf",
+    "englishNameTranslation": "Joseph",
+    "banglaName": "সূরা ইউসুফ",
+    "banglaNameTranslation": "ইউসুফ",
+    "numberOfAyahs": 111,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 13,
+    "name": "سُورَةُ ٱلرَّعْدِ",
+    "englishName": "Ar-Ra'd",
+    "englishNameTranslation": "The Thunder",
+    "banglaName": "সূরা আর-রাদ",
+    "banglaNameTranslation": "বজ্র",
+    "numberOfAyahs": 43,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 14,
+    "name": "سُورَةُ إِبْرَاهِيمَ",
+    "englishName": "Ibrahim",
+    "englishNameTranslation": "Abraham",
+    "banglaName": "সূরা ইব্রাহিম",
+    "banglaNameTranslation": "ইব্রাহিম",
+    "numberOfAyahs": 52,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 15,
+    "name": "سُورَةُ ٱلْحِجْرِ",
+    "englishName": "Al-Hijr",
+    "englishNameTranslation": "The Rock",
+    "banglaName": "সূরা আল-হিজর",
+    "banglaNameTranslation": "পাথুরে এলাকা",
+    "numberOfAyahs": 99,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 16,
+    "name": "سُورَةُ ٱلنَّحْلِ",
+    "englishName": "An-Nahl",
+    "englishNameTranslation": "The Bee",
+    "banglaName": "সূরা আন-নাহল",
+    "banglaNameTranslation": "মৌমাছি",
+    "numberOfAyahs": 128,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 17,
+    "name": "سُورَةُ ٱلْإِسْرَاءِ",
+    "englishName": "Al-Israa",
+    "englishNameTranslation": "The Night Journey",
+    "banglaName": "সূরা আল-ইসরা",
+    "banglaNameTranslation": "রাত্রি যাত্রা",
+    "numberOfAyahs": 111,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 18,
+    "name": "سُورَةُ ٱلْكَهْفِ",
+    "englishName": "Al-Kahf",
+    "englishNameTranslation": "The Cave",
+    "banglaName": "সূরা আল-কাহফ",
+    "banglaNameTranslation": "গুহা",
+    "numberOfAyahs": 110,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 19,
+    "name": "سُورَةُ مَرْيَمَ",
+    "englishName": "Maryam",
+    "englishNameTranslation": "Mary",
+    "banglaName": "সূরা মারিয়াম",
+    "banglaNameTranslation": "মরিয়ম",
+    "numberOfAyahs": 98,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 20,
+    "name": "سُورَةُ طه",
+    "englishName": "Taa-Haa",
+    "englishNameTranslation": "Taa-Haa",
+    "banglaName": "সূরা ত্বোয়া-হা",
+    "banglaNameTranslation": "তা-হা",
+    "numberOfAyahs": 135,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 21,
+    "name": "سُورَةُ ٱلْأَنْبِيَاءِ",
+    "englishName": "Al-Anbiyaa",
+    "englishNameTranslation": "The Prophets",
+    "banglaName": "সূরা আল-আম্বিয়া",
+    "banglaNameTranslation": "নবীগণ",
+    "numberOfAyahs": 112,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 22,
+    "name": "سُورَةُ ٱلْحَجِّ",
+    "englishName": "Al-Hajj",
+    "englishNameTranslation": "The Pilgrimage",
+    "banglaName": "সূরা আল-হাজ্জ",
+    "banglaNameTranslation": "হজ্জ",
+    "numberOfAyahs": 78,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 23,
+    "name": "سُورَةُ ٱلْمُؤْمِنُونَ",
+    "englishName": "Al-Muminoon",
+    "englishNameTranslation": "The Believers",
+    "banglaName": "সূরা আল-মুমিনুন",
+    "banglaNameTranslation": "বিশ্বাসীগণ",
+    "numberOfAyahs": 118,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 24,
+    "name": "سُورَةُ ٱلنُّورِ",
+    "englishName": "An-Noor",
+    "englishNameTranslation": "The Light",
+    "banglaName": "সূরা আন-নূর",
+    "banglaNameTranslation": "আলো",
+    "numberOfAyahs": 64,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 25,
+    "name": "سُورَةُ ٱلْفُرْقَانِ",
+    "englishName": "Al-Furqaan",
+    "englishNameTranslation": "The Criterion",
+    "banglaName": "সূরা আল-ফুরকান",
+    "banglaNameTranslation": "সত্য-মিথ্যার পার্থক্য",
+    "numberOfAyahs": 77,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 26,
+    "name": "سُورَةُ ٱلشُّعَرَاءِ",
+    "englishName": "Ash-Shu'araa",
+    "englishNameTranslation": "The Poets",
+    "banglaName": "সূরা আশ-শু'আরা",
+    "banglaNameTranslation": "কবিগণ",
+    "numberOfAyahs": 227,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 27,
+    "name": "سُورَةُ ٱلنَّمْلِ",
+    "englishName": "An-Naml",
+    "englishNameTranslation": "The Ant",
+    "banglaName": "সূরা আন-নামল",
+    "banglaNameTranslation": "পিপীলিকা",
+    "numberOfAyahs": 93,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 28,
+    "name": "سُورَةُ ٱلْقَصَصِ",
+    "englishName": "Al-Qasas",
+    "englishNameTranslation": "The Stories",
+    "banglaName": "সূরা আল-কাসাস",
+    "banglaNameTranslation": "কাহিনী",
+    "numberOfAyahs": 88,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 29,
+    "name": "سُورَةُ ٱلْعَنْكَبُوتِ",
+    "englishName": "Al-Ankaboot",
+    "englishNameTranslation": "The Spider",
+    "banglaName": "সূরা আল-আনকাবুত",
+    "banglaNameTranslation": "মাকড়সা",
+    "numberOfAyahs": 69,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 30,
+    "name": "سُورَةُ ٱلرُّومِ",
+    "englishName": "Ar-Room",
+    "englishNameTranslation": "The Romans",
+    "banglaName": "সূরা আর-রুম",
+    "banglaNameTranslation": "রোমানরা",
+    "numberOfAyahs": 60,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 31,
+    "name": "سُورَةُ لُقْمَانَ",
+    "englishName": "Luqman",
+    "englishNameTranslation": "Luqman",
+    "banglaName": "সূরা লুকমান",
+    "banglaNameTranslation": "লুকমান",
+    "numberOfAyahs": 34,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 32,
+    "name": "سُورَةُ ٱلسَّجْدَةِ",
+    "englishName": "As-Sajda",
+    "englishNameTranslation": "The Prostration",
+    "banglaName": "সূরা আস-সাজদাহ",
+    "banglaNameTranslation": "সিজদাহ",
+    "numberOfAyahs": 30,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 33,
+    "name": "سُورَةُ ٱلْأَحْزَابِ",
+    "englishName": "Al-Ahzaab",
+    "englishNameTranslation": "The Clans",
+    "banglaName": "সূরা আল-আহযাব",
+    "banglaNameTranslation": "জোট",
+    "numberOfAyahs": 73,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 34,
+    "name": "سُورَةُ سَبَأٍ",
+    "englishName": "Saba",
+    "englishNameTranslation": "Sheba",
+    "banglaName": "সূরা সাবা",
+    "banglaNameTranslation": "সাবা",
+    "numberOfAyahs": 54,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 35,
+    "name": "سُورَةُ فَاطِرٍ",
+    "englishName": "Faatir",
+    "englishNameTranslation": "The Originator",
+    "banglaName": "সূরা ফাতির",
+    "banglaNameTranslation": "স্রষ্টা",
+    "numberOfAyahs": 45,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 36,
+    "name": "سُورَةُ يس",
+    "englishName": "Yaseen",
+    "englishNameTranslation": "Yaseen",
+    "banglaName": "সূরা ইয়াসিন",
+    "banglaNameTranslation": "ইয়া-সীন",
+    "numberOfAyahs": 83,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 37,
+    "name": "سُورَةُ ٱلصَّافَّاتِ",
+    "englishName": "As-Saaffaat",
+    "englishNameTranslation": "Those who set the Ranks",
+    "banglaName": "সূরা আস-সাফফাত",
+    "banglaNameTranslation": "সারিবদ্ধভাবে দাঁড়ানো",
+    "numberOfAyahs": 182,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 38,
+    "name": "سُورَةُ ص",
+    "englishName": "Saad",
+    "englishNameTranslation": "The Letter Saad",
+    "banglaName": "সূরা সাদ",
+    "banglaNameTranslation": "সাদ",
+    "numberOfAyahs": 88,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 39,
+    "name": "سُورَةُ ٱلزُّمَرِ",
+    "englishName": "Az-Zumar",
+    "englishNameTranslation": "The Groups",
+    "banglaName": "সূরা আজ-জুমার",
+    "banglaNameTranslation": "দল",
+    "numberOfAyahs": 75,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 40,
+    "name": "سُورَةُ غَافِرٍ",
+    "englishName": "Ghafir",
+    "englishNameTranslation": "The Forgiver",
+    "banglaName": "সূরা গাফির",
+    "banglaNameTranslation": "ক্ষমাকারী",
+    "numberOfAyahs": 85,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 41,
+    "name": "سُورَةُ فُصِّلَتْ",
+    "englishName": "Fussilat",
+    "englishNameTranslation": "Explained in Detail",
+    "banglaName": "সূরা ফুসসিলাত",
+    "banglaNameTranslation": "বিশদভাবে বর্ণিত",
+    "numberOfAyahs": 54,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 42,
+    "name": "سُورَةُ ٱلشُّورَىٰ",
+    "englishName": "Ash-Shura",
+    "englishNameTranslation": "Consultation",
+    "banglaName": "সূরা আশ-শুরা",
+    "banglaNameTranslation": "পরামর্শ",
+    "numberOfAyahs": 53,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 43,
+    "name": "سُورَةُ ٱلزُّخْرُفِ",
+    "englishName": "Az-Zukhruf",
+    "englishNameTranslation": "Ornaments of Gold",
+    "banglaName": "সূরা আজ-যুখরুফ",
+    "banglaNameTranslation": "সোনার অলঙ্কার",
+    "numberOfAyahs": 89,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 44,
+    "name": "سُورَةُ ٱلدُّخَانِ",
+    "englishName": "Ad-Dukhaan",
+    "englishNameTranslation": "The Smoke",
+    "banglaName": "সূরা আদ-দুখান",
+    "banglaNameTranslation": "ধোঁয়া",
+    "numberOfAyahs": 59,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 45,
+    "name": "سُورَةُ ٱلْجَاثِيَةِ",
+    "englishName": "Al-Jaathiya",
+    "englishNameTranslation": "Crouching",
+    "banglaName": "সূরা আল-জাসিয়াহ",
+    "banglaNameTranslation": "নতজানু",
+    "numberOfAyahs": 37,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 46,
+    "name": "سُورَةُ ٱلْأَحْقَافِ",
+    "englishName": "Al-Ahqaf",
+    "englishNameTranslation": "The Dunes",
+    "banglaName": "সূরা আল-আহকাফ",
+    "banglaNameTranslation": "বালুর পাহাড়",
+    "numberOfAyahs": 35,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 47,
+    "name": "سُورَةُ مُحَمَّدٍ",
+    "englishName": "Muhammad",
+    "englishNameTranslation": "Muhammad",
+    "banglaName": "সূরা মুহাম্মদ",
+    "banglaNameTranslation": "মুহাম্মদ",
+    "numberOfAyahs": 38,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 48,
+    "name": "سُورَةُ ٱلْفَتْحِ",
+    "englishName": "Al-Fath",
+    "englishNameTranslation": "The Victory",
+    "banglaName": "সূরা আল-ফাতহ",
+    "banglaNameTranslation": "বিজয়",
+    "numberOfAyahs": 29,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 49,
+    "name": "سُورَةُ ٱلْحُجُرَاتِ",
+    "englishName": "Al-Hujuraat",
+    "englishNameTranslation": "The Inner Apartments",
+    "banglaName": "সূরা আল-হুজুরাত",
+    "banglaNameTranslation": "বাসগৃহ",
+    "numberOfAyahs": 18,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 50,
+    "name": "سُورَةُ ق",
+    "englishName": "Qaaf",
+    "englishNameTranslation": "The Letter Qaaf",
+    "banglaName": "সূরা কাফ",
+    "banglaNameTranslation": "কাফ",
+    "numberOfAyahs": 45,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 51,
+    "name": "سُورَةُ ٱلذَّارِيَاتِ",
+    "englishName": "Adh-Dhaariyat",
+    "englishNameTranslation": "The Winnowing Winds",
+    "banglaName": "সূরা আজ-জারিয়াত",
+    "banglaNameTranslation": "বিক্ষেপকারী বায়ু",
+    "numberOfAyahs": 60,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 52,
+    "name": "سُورَةُ ٱلطُّورِ",
+    "englishName": "At-Tur",
+    "englishNameTranslation": "The Mount",
+    "banglaName": "সূরা আত-তুর",
+    "banglaNameTranslation": "পর্বত",
+    "numberOfAyahs": 49,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 53,
+    "name": "سُورَةُ ٱلنَّجْمِ",
+    "englishName": "An-Najm",
+    "englishNameTranslation": "The Star",
+    "banglaName": "সূরা আন-নাজম",
+    "banglaNameTranslation": "তারকা",
+    "numberOfAyahs": 62,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 54,
+    "name": "سُورَةُ ٱلْقَمَرِ",
+    "englishName": "Al-Qamar",
+    "englishNameTranslation": "The Moon",
+    "banglaName": "সূরা আল-কামার",
+    "banglaNameTranslation": "চাঁদ",
+    "numberOfAyahs": 55,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 55,
+    "name": "سُورَةُ ٱلرَّحْمَـٰنِ",
+    "englishName": "Ar-Rahmaan",
+    "englishNameTranslation": "The Beneficent",
+    "banglaName": "সূরা আর-রহমান",
+    "banglaNameTranslation": "পরম করুণাময়",
+    "numberOfAyahs": 78,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 56,
+    "name": "سُورَةُ ٱلْوَاقِعَةِ",
+    "englishName": "Al-Waaqia",
+    "englishNameTranslation": "The Inevitable",
+    "banglaName": "সূরা আল-ওয়াকিয়াহ",
+    "banglaNameTranslation": "অবশ্যম্ভাবী ঘটনা",
+    "numberOfAyahs": 96,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 57,
+    "name": "سُورَةُ ٱلْحَدِيدِ",
+    "englishName": "Al-Hadid",
+    "englishNameTranslation": "The Iron",
+    "banglaName": "সূরা আল-হাদীদ",
+    "banglaNameTranslation": "লোহা",
+    "numberOfAyahs": 29,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 58,
+    "name": "سُورَةُ ٱلْمُجَادِلَةِ",
+    "englishName": "Al-Mujaadila",
+    "englishNameTranslation": "The Pleading Woman",
+    "banglaName": "সূরা আল-মুজাদিলাহ",
+    "banglaNameTranslation": "যারা তর্ক করে",
+    "numberOfAyahs": 22,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 59,
+    "name": "سُورَةُ ٱلْحَشْرِ",
+    "englishName": "Al-Hashr",
+    "englishNameTranslation": "The Exile",
+    "banglaName": "সূরা আল-হাশর",
+    "banglaNameTranslation": "সমাবেশ",
+    "numberOfAyahs": 24,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 60,
+    "name": "سُورَةُ ٱلْمُمْتَحَنَةِ",
+    "englishName": "Al-Mumtahana",
+    "englishNameTranslation": "She that is to be examined",
+    "banglaName": "সূরা আল-মুমতাহানাহ",
+    "banglaNameTranslation": "পরীক্ষিতা",
+    "numberOfAyahs": 13,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 61,
+    "name": "سُورَةُ ٱلصَّفِّ",
+    "englishName": "As-Saff",
+    "englishNameTranslation": "The Ranks",
+    "banglaName": "সূরা আস-সাফ",
+    "banglaNameTranslation": "সারিবদ্ধতা",
+    "numberOfAyahs": 14,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 62,
+    "name": "سُورَةُ ٱلْجُمُعَةِ",
+    "englishName": "Al-Jumu'a",
+    "englishNameTranslation": "Friday",
+    "banglaName": "সূরা আল-জুমু'আহ",
+    "banglaNameTranslation": "শুক্রবার",
+    "numberOfAyahs": 11,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 63,
+    "name": "سُورَةُ ٱلْمُنَافِقُونَ",
+    "englishName": "Al-Munaafiqoon",
+    "englishNameTranslation": "The Hypocrites",
+    "banglaName": "সূরা আল-মুনাফিকুন",
+    "banglaNameTranslation": "কপটাচারীরা",
+    "numberOfAyahs": 11,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 64,
+    "name": "سُورَةُ ٱلتَّغَابُنِ",
+    "englishName": "At-Taghaabun",
+    "englishNameTranslation": "Mutual Disillusion",
+    "banglaName": "সূরা আত-তাগাবুন",
+    "banglaNameTranslation": "পরস্পর বঞ্চনা",
+    "numberOfAyahs": 18,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 65,
+    "name": "سُورَةُ ٱلطَّلَاقِ",
+    "englishName": "At-Talaaq",
+    "englishNameTranslation": "Divorce",
+    "banglaName": "সূরা আত-তালাক",
+    "banglaNameTranslation": "তালাক",
+    "numberOfAyahs": 12,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 66,
+    "name": "سُورَةُ ٱلتَّحْرِيمِ",
+    "englishName": "At-Tahrim",
+    "englishNameTranslation": "The Prohibition",
+    "banglaName": "সূরা আত-তাহরীম",
+    "banglaNameTranslation": "নিষিদ্ধকরণ",
+    "numberOfAyahs": 12,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 67,
+    "name": "سُورَةُ ٱلْمُلْكِ",
+    "englishName": "Al-Mulk",
+    "englishNameTranslation": "The Sovereignty",
+    "banglaName": "সূরা আল-মুলক",
+    "banglaNameTranslation": "আধিপত্য",
+    "numberOfAyahs": 30,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 68,
+    "name": "سُورَةُ ٱلْقَلَمِ",
+    "englishName": "Al-Qalam",
+    "englishNameTranslation": "The Pen",
+    "banglaName": "সূরা আল-কালাম",
+    "banglaNameTranslation": "কলম",
+    "numberOfAyahs": 52,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 69,
+    "name": "سُورَةُ ٱلْحَاقَّةِ",
+    "englishName": "Al-Haaqqa",
+    "englishNameTranslation": "The Reality",
+    "banglaName": "সূরা আল-হাক্কাহ",
+    "banglaNameTranslation": "বাস্তবতা",
+    "numberOfAyahs": 52,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 70,
+    "name": "سُورَةُ ٱلْمَعَارِجِ",
+    "englishName": "Al-Ma'aarij",
+    "englishNameTranslation": "The Ascending Stairways",
+    "banglaName": "সূরা আল-মা'আরিজ",
+    "banglaNameTranslation": "উঠানামার পথ",
+    "numberOfAyahs": 44,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 71,
+    "name": "سُورَةُ نُوحٍ",
+    "englishName": "Nooh",
+    "englishNameTranslation": "Noah",
+    "banglaName": "সূরা নূহ",
+    "banglaNameTranslation": "নূহ",
+    "numberOfAyahs": 28,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 72,
+    "name": "سُورَةُ ٱلْجِنِّ",
+    "englishName": "Al-Jinn",
+    "englishNameTranslation": "The Jinn",
+    "banglaName": "সূরা আল-জিন",
+    "banglaNameTranslation": "জিন",
+    "numberOfAyahs": 28,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 73,
+    "name": "سُورَةُ ٱلْمُزَّمِّلِ",
+    "englishName": "Al-Muzzammil",
+    "englishNameTranslation": "The Enshrouded One",
+    "banglaName": "সূরা আল-মুজাম্মিল",
+    "banglaNameTranslation": "বস্ত্রাচ্ছাদিত",
+    "numberOfAyahs": 20,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 74,
+    "name": "سُورَةُ ٱلْمُدَّثِّرِ",
+    "englishName": "Al-Muddaththir",
+    "englishNameTranslation": "The Cloaked One",
+    "banglaName": "সূরা আল-মুদ্দাসসির",
+    "banglaNameTranslation": "আবৃত",
+    "numberOfAyahs": 56,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 75,
+    "name": "سُورَةُ ٱلْقِيَامَةِ",
+    "englishName": "Al-Qiyaama",
+    "englishNameTranslation": "The Resurrection",
+    "banglaName": "সূরা আল-কিয়ামাহ",
+    "banglaNameTranslation": "পুনরুত্থান",
+    "numberOfAyahs": 40,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 76,
+    "name": "سُورَةُ ٱلْإِنْسَانِ",
+    "englishName": "Al-Insaan",
+    "englishNameTranslation": "Man",
+    "banglaName": "সূরা আল-ইনসান",
+    "banglaNameTranslation": "মানুষ",
+    "numberOfAyahs": 31,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 77,
+    "name": "سُورَةُ ٱلْمُرْسَلَاتِ",
+    "englishName": "Al-Mursalaat",
+    "englishNameTranslation": "The Emissaries",
+    "banglaName": "সূরা আল-মুরসালাত",
+    "banglaNameTranslation": "প্রেরিতরা",
+    "numberOfAyahs": 50,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 78,
+    "name": "سُورَةُ ٱلنَّبَأِ",
+    "englishName": "An-Naba",
+    "englishNameTranslation": "The Tidings",
+    "banglaName": "সূরা আন-নাবা",
+    "banglaNameTranslation": "মহাসংবাদ",
+    "numberOfAyahs": 40,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 79,
+    "name": "سُورَةُ ٱلنَّازِعَاتِ",
+    "englishName": "An-Naazi'aat",
+    "englishNameTranslation": "Those who drag forth",
+    "banglaName": "সূরা আন-নাজিয়াত",
+    "banglaNameTranslation": "প্রচেষ্টাকারীরা",
+    "numberOfAyahs": 46,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 80,
+    "name": "سُورَةُ عَبَسَ",
+    "englishName": "Abasa",
+    "englishNameTranslation": "He frowned",
+    "banglaName": "সূরা আবাসা",
+    "banglaNameTranslation": "তিনি ভ্রূকুটি করলেন",
+    "numberOfAyahs": 42,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 81,
+    "name": "سُورَةُ ٱلتَّكْوِيرِ",
+    "englishName": "At-Takwir",
+    "englishNameTranslation": "The Overthrowing",
+    "banglaName": "সূরা আত-তাকভীর",
+    "banglaNameTranslation": "অন্ধকার করা",
+    "numberOfAyahs": 29,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 82,
+    "name": "سُورَةُ ٱلْإِنْفِطَارِ",
+    "englishName": "Al-Infitaar",
+    "englishNameTranslation": "The Cleaving",
+    "banglaName": "সূরা আল-ইনফিতার",
+    "banglaNameTranslation": "বিদীর্ণ করা",
+    "numberOfAyahs": 19,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 83,
+    "name": "سُورَةُ ٱلْمُطَفِّفِينَ",
+    "englishName": "Al-Mutaffifin",
+    "englishNameTranslation": "Defrauding",
+    "banglaName": "সূরা আল-মুতাফফিফীন",
+    "banglaNameTranslation": "প্রতারণাকারীরা",
+    "numberOfAyahs": 36,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 84,
+    "name": "سُورَةُ ٱلْإِنْشِقَاقِ",
+    "englishName": "Al-Inshiqaaq",
+    "englishNameTranslation": "The Sundering",
+    "banglaName": "সূরা আল-ইনশিকাক",
+    "banglaNameTranslation": "বিদারণ",
+    "numberOfAyahs": 25,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 85,
+    "name": "سُورَةُ ٱلْبُرُوجِ",
+    "englishName": "Al-Burooj",
+    "englishNameTranslation": "The Mansions of the Stars",
+    "banglaName": "সূরা আল-বুরুজ",
+    "banglaNameTranslation": "নক্ষত্রপুঞ্জ",
+    "numberOfAyahs": 22,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 86,
+    "name": "سُورَةُ ٱلطَّارِقِ",
+    "englishName": "At-Taariq",
+    "englishNameTranslation": "The Morning Star",
+    "banglaName": "সূরা আত-তারিক",
+    "banglaNameTranslation": "রাতের আগন্তুক",
+    "numberOfAyahs": 17,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 87,
+    "name": "سُورَةُ ٱلْأَعْلَىٰ",
+    "englishName": "Al-A'laa",
+    "englishNameTranslation": "The Most High",
+    "banglaName": "সূরা আল-আ'লা",
+    "banglaNameTranslation": "সর্বোচ্চ",
+    "numberOfAyahs": 19,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 88,
+    "name": "سُورَةُ ٱلْغَاشِيَةِ",
+    "englishName": "Al-Ghaashiya",
+    "englishNameTranslation": "The Overwhelming",
+    "banglaName": "সূরা আল-গাশিয়াহ",
+    "banglaNameTranslation": "ছেয়ে যাওয়া",
+    "numberOfAyahs": 26,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 89,
+    "name": "سُورَةُ ٱلْفَجْرِ",
+    "englishName": "Al-Fajr",
+    "englishNameTranslation": "The Dawn",
+    "banglaName": "সূরা আল-ফজর",
+    "banglaNameTranslation": "ভোর",
+    "numberOfAyahs": 30,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 90,
+    "name": "سُورَةُ ٱلْبَلَدِ",
+    "englishName": "Al-Balad",
+    "englishNameTranslation": "The City",
+    "banglaName": "সূরা আল-বালাদ",
+    "banglaNameTranslation": "নগরী",
+    "numberOfAyahs": 20,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 91,
+    "name": "سُورَةُ ٱلشَّمْسِ",
+    "englishName": "Ash-Shams",
+    "englishNameTranslation": "The Sun",
+    "banglaName": "সূরা আশ-শামস",
+    "banglaNameTranslation": "সূর্য",
+    "numberOfAyahs": 15,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 92,
+    "name": "سُورَةُ ٱلْلَّيْلِ",
+    "englishName": "Al-Lail",
+    "englishNameTranslation": "The Night",
+    "banglaName": "সূরা আল-লাইল",
+    "banglaNameTranslation": "রাত্রি",
+    "numberOfAyahs": 21,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 93,
+    "name": "سُورَةُ ٱلضُّحَىٰ",
+    "englishName": "Ad-Dhuhaa",
+    "englishNameTranslation": "The Morning Hours",
+    "banglaName": "সূরা আদ-দুহা",
+    "banglaNameTranslation": "সকাল",
+    "numberOfAyahs": 11,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 94,
+    "name": "سُورَةُ ٱلشَّرْحِ",
+    "englishName": "Ash-Sharh",
+    "englishNameTranslation": "The Relief",
+    "banglaName": "সূরা আশ-শারহ",
+    "banglaNameTranslation": "বিস্তৃত করা",
+    "numberOfAyahs": 8,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 95,
+    "name": "سُورَةُ ٱلتِّينِ",
+    "englishName": "At-Tin",
+    "englishNameTranslation": "The Fig",
+    "banglaName": "সূরা আত-তীন",
+    "banglaNameTranslation": "ডুমুর",
+    "numberOfAyahs": 8,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 96,
+    "name": "سُورَةُ ٱلْعَلَقِ",
+    "englishName": "Al-Alaq",
+    "englishNameTranslation": "The Clot",
+    "banglaName": "সূরা আল-আলাক",
+    "banglaNameTranslation": "জমাট রক্ত",
+    "numberOfAyahs": 19,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 97,
+    "name": "سُورَةُ ٱلْقَدْرِ",
+    "englishName": "Al-Qadr",
+    "englishNameTranslation": "The Power",
+    "banglaName": "সূরা আল-কাদর",
+    "banglaNameTranslation": "মহিমান্বিত রাত",
+    "numberOfAyahs": 5,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 98,
+    "name": "سُورَةُ ٱلْبَيِّنَةِ",
+    "englishName": "Al-Bayyina",
+    "englishNameTranslation": "The Clear Proof",
+    "banglaName": "সূরা আল-বাইয়্যিনাহ",
+    "banglaNameTranslation": "স্পষ্ট প্রমাণ",
+    "numberOfAyahs": 8,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 99,
+    "name": "سُورَةُ ٱلزَّلْزَلَةِ",
+    "englishName": "Az-Zalzala",
+    "englishNameTranslation": "The Earthquake",
+    "banglaName": "সূরা আজ-জালযালাহ",
+    "banglaNameTranslation": "ভূমিকম্প",
+    "numberOfAyahs": 8,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 100,
+    "name": "سُورَةُ ٱلْعَادِيَاتِ",
+    "englishName": "Al-Aadiyaat",
+    "englishNameTranslation": "The Courser",
+    "banglaName": "সূরা আল-আদিয়াত",
+    "banglaNameTranslation": "দৌড়াদৌড়িকারী",
+    "numberOfAyahs": 11,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 101,
+    "name": "سُورَةُ ٱلْقَارِعَةِ",
+    "englishName": "Al-Qaari'a",
+    "englishNameTranslation": "The Calamity",
+    "banglaName": "সূরা আল-কারিয়াহ",
+    "banglaNameTranslation": "মহাসংকট",
+    "numberOfAyahs": 11,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 102,
+    "name": "سُورَةُ ٱلتَّكَاثُرِ",
+    "englishName": "At-Takaathur",
+    "englishNameTranslation": "Competition",
+    "banglaName": "সূরা আত-তাকাসুর",
+    "banglaNameTranslation": "প্রাচুর্যের প্রতিযোগিতা",
+    "numberOfAyahs": 8,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 103,
+    "name": "سُورَةُ ٱلْعَصْرِ",
+    "englishName": "Al-Asr",
+    "englishNameTranslation": "The Declining Day",
+    "banglaName": "সূরা আল-আসর",
+    "banglaNameTranslation": "সময়",
+    "numberOfAyahs": 3,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 104,
+    "name": "سُورَةُ ٱلْهُمَزَةِ",
+    "englishName": "Al-Humaza",
+    "englishNameTranslation": "The Traducer",
+    "banglaName": "সূরা আল-হুমাজাহ",
+    "banglaNameTranslation": "পরনিন্দাকারী",
+    "numberOfAyahs": 9,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 105,
+    "name": "سُورَةُ ٱلْفِيلِ",
+    "englishName": "Al-Fil",
+    "englishNameTranslation": "The Elephant",
+    "banglaName": "সূরা আল-ফীল",
+    "banglaNameTranslation": "হস্তী",
+    "numberOfAyahs": 5,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 106,
+    "name": "سُورَةُ قُرَيْشٍ",
+    "englishName": "Quraish",
+    "englishNameTranslation": "Quraysh",
+    "banglaName": "সূরা কুরাইশ",
+    "banglaNameTranslation": "কুরাইশ",
+    "numberOfAyahs": 4,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 107,
+    "name": "سُورَةُ ٱلْمَاعُونِ",
+    "englishName": "Al-Maa'un",
+    "englishNameTranslation": "The Small kindnesses",
+    "banglaName": "সূরা আল-মাউন",
+    "banglaNameTranslation": "সাহায্য-সহায়তা",
+    "numberOfAyahs": 7,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 108,
+    "name": "سُورَةُ ٱلْكَوْثَرِ",
+    "englishName": "Al-Kawthar",
+    "englishNameTranslation": "The Abundance",
+    "banglaName": "সূরা আল-কাওসার",
+    "banglaNameTranslation": "প্রাচুর্য",
+    "numberOfAyahs": 3,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 109,
+    "name": "سُورَةُ ٱلْكَافِرُونَ",
+    "englishName": "Al-Kaafiroon",
+    "englishNameTranslation": "The Disbelievers",
+    "banglaName": "সূরা আল-কাফিরুন",
+    "banglaNameTranslation": "অবিশ্বাসীরা",
+    "numberOfAyahs": 6,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 110,
+    "name": "سُورَةُ ٱلنَّصْرِ",
+    "englishName": "An-Nasr",
+    "englishNameTranslation": "The Divine Support",
+    "banglaName": "সূরা আন-নাসর",
+    "banglaNameTranslation": "স্বর্গীয় সাহায্য",
+    "numberOfAyahs": 3,
+    "revelationType": "Medinan"
+  },
+  {
+    "number": 111,
+    "name": "سُورَةُ ٱلْمَسَدِ",
+    "englishName": "Al-Masad",
+    "englishNameTranslation": "The Palm Fiber",
+    "banglaName": "সূরা আল-মাসাদ",
+    "banglaNameTranslation": "খর্জুর রশি",
+    "numberOfAyahs": 5,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 112,
+    "name": "سُورَةُ ٱلْإِخْلَاصِ",
+    "englishName": "Al-Ikhlaas",
+    "englishNameTranslation": "The Sincerity",
+    "banglaName": "সূরা আল-ইখলাস",
+    "banglaNameTranslation": "একনিষ্ঠতা",
+    "numberOfAyahs": 4,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 113,
+    "name": "سُورَةُ ٱلْفَلَقِ",
+    "englishName": "Al-Falaq",
+    "englishNameTranslation": "The Daybreak",
+    "banglaName": "সূরা আল-ফালাক",
+    "banglaNameTranslation": "ভোর",
+    "numberOfAyahs": 5,
+    "revelationType": "Meccan"
+  },
+  {
+    "number": 114,
+    "name": "سُورَةُ ٱلنَّاسِ",
+    "englishName": "An-Naas",
+    "englishNameTranslation": "Mankind",
+    "banglaName": "সূরা আন-নাস",
+    "banglaNameTranslation": "মানবজাতি",
+    "numberOfAyahs": 6,
+    "revelationType": "Meccan"
+  }
+
+]
+

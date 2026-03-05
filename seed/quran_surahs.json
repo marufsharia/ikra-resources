@@ -1,0 +1,280 @@
+
+{
+  "surahs": [
+    {
+      "id": 1,
+      "name_ar": "الفاتحة",
+      "name_en": "Al-Fatihah",
+      "name_bn": "সূরা ফাতিহা",
+      "revelation_place": "Makkah",
+      "ayah_count": 7,
+      "ayahs": [
+        {
+          "ayah_no": 1,
+          "text_ar": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+          "translations": [
+            {
+              "lang": "en",
+              "text": "In the name of Allah, the Entirely Merciful, the Especially Merciful."
+            },
+            {
+              "lang": "bn",
+              "text": "শুরু করছি আল্লাহর নামে, যিনি পরম করুণাময়, অতি দয়ালু।"
+            }
+          ]
+        },
+        {
+          "ayah_no": 2,
+          "text_ar": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+          "translations": [
+            {
+              "lang": "en",
+              "text": "[All] praise is [due] to Allah, Lord of the worlds -"
+            },
+            {
+              "lang": "bn",
+              "text": "সমস্ত প্রশংসা আল্লাহর জন্য, যিনি সকল জগতের প্রতিপালক।"
+            }
+          ]
+        },
+        {
+          "ayah_no": 3,
+          "text_ar": "الرَّحْمَـٰنِ الرَّحِيمِ",
+          "translations": [
+            {
+              "lang": "en",
+              "text": "The Entirely Merciful, the Especially Merciful,"
+            },
+            {
+              "lang": "bn",
+              "text": "যিনি পরম করুণাময়, অতি দয়ালু।"
+            }
+          ]
+        },
+        {
+          "ayah_no": 4,
+          "text_ar": "مَالِكِ يَوْمِ الدِّينِ",
+          "translations": [
+            {
+              "lang": "en",
+              "text": "Sovereign of the Day of Recompense."
+            },
+            {
+              "lang": "bn",
+              "text": "বিচার দিনের মালিক।"
+            }
+          ]
+        },
+        {
+          "ayah_no": 5,
+          "text_ar": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+          "translations": [
+            {
+              "lang": "en",
+              "text": "It is You we worship and You we ask for help."
+            },
+            {
+              "lang": "bn",
+              "text": "আমরা একমাত্র তোমারই ইবাদত করি এবং একমাত্র তোমারই কাছে援助 চাই।"
+            }
+          ]
+        },
+        {
+          "ayah_no": 6,
+          "text_ar": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+          "translations": [
+            {
+              "lang": "en",
+              "text": "Guide us to the straight path -"
+            },
+            {
+              "lang": "bn",
+              "text": "আমাদেরকে সরল পথ দেখাও,"
+            }
+          ]
+        },
+        {
+          "ayah_no": 7,
+          "text_ar": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+          "translations": [
+            {
+              "lang": "en",
+              "text": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray."
+            },
+            {
+              "lang": "bn",
+              "text": "তাদের পথ, যাদেরকে তুমি নেয়ামত দান করেছ। তাদের পথ নয়, যাদের উপর গজব নাযিল হয়েছে এবং যারা পথভ্রষ্ট।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name_ar": "البقرة",
+      "name_en": "Al-Baqarah",
+      "name_bn": "সূরা বাকারা",
+      "revelation_place": "Madinah",
+      "ayah_count": 286,
+      "ayahs": [
+        {
+          "ayah_no": 1,
+          "text_ar": "الم",
+          "translations": [
+            {
+              "lang": "en",
+              "text": "Alif, Lam, Meem."
+            },
+            {
+              "lang": "bn",
+              "text": "আলিফ-লাম-মীম।"
+            }
+          ]
+        },
+        {
+          "ayah_no": 2,
+          "text_ar": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِلْمُتَّقِينَ",
+          "translations": [
+            {
+              "lang": "en",
+              "text": "This is the Book about which there is no doubt, a guidance for those conscious of Allah -"
+            },
+            {
+              "lang": "bn",
+              "text": "এই কিতাব, এতে কোন সন্দেহ নেই; মুত্তাকীদের জন্য পথ নির্দেশ।"
+            }
+          ]
+        },
+        {
+          "ayah_no": 3,
+          "text_ar": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+          "translations": [
+            {
+              "lang": "en",
+              "text": "Who believe in the unseen, establish prayer, and spend out of what We have provided for them,"
+            },
+            {
+              "lang": "bn",
+              "text": "যারা অদৃশ্যে বিশ্বাস করে, নামায কায়েম করে এবং আমি তাদেরকে যা দান করেছি, তা থেকে (আল্লাহর পথে) ব্যয় করে।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "name_ar": "سورة الإخلاص",
+      "name_en": "Al-Ikhlas",
+      "name_bn": "সূরা ইখলাস",
+      "revelation_place": "Makkah",
+      "ayah_count": 4,
+      "ayahs": [
+        {
+          "ayah_no": 1,
+          "text_ar": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+          "translations": [
+            {
+              "lang": "en",
+              "text": "Say, \"He is Allah, [who is] One,"
+            },
+            {
+              "lang": "bn",
+              "text": "বলুন, তিনি আল্লাহ, একক।"
+            }
+          ]
+        },
+        {
+          "ayah_no": 2,
+          "text_ar": "اللَّهُ الصَّمَدُ",
+          "translations": [
+            {
+              "lang": "en",
+              "text": "Allah, the Eternal Refuge."
+            },
+            {
+              "lang": "bn",
+              "text": "আল্লাহ অমুখাপেক্ষী।"
+            }
+          ]
+        },
+        {
+          "ayah_no": 3,
+          "text_ar": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+          "translations": [
+            {
+              "lang": "en",
+              "text": "He neither begets nor is born,"
+            },
+            {
+              "lang": "bn",
+              "text": "তিনি কাউকে জন্ম দেননি এবং তাঁকেও জন্ম দেওয়া হয়নি।"
+            }
+          ]
+        },
+        {
+          "ayah_no": 4,
+          "text_ar": "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+          "translations": [
+            {
+              "lang": "en",
+              "text": "Nor is there to Him any equivalent.\""
+            },
+            {
+              "lang": "bn",
+              "text": "এবং তাঁর সমতুল্য কেউ নেই।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "name_ar": "سورة الفلق",
+      "name_en": "Al-Falaq",
+      "name_bn": "সূরা ফালাক",
+      "revelation_place": "Makkah",
+      "ayah_count": 5,
+      "ayahs": [
+        {
+          "ayah_no": 1,
+          "text_ar": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+          "translations": [
+            {
+              "lang": "en",
+              "text": "Say, \"I seek refuge in the Lord of daybreak"
+            },
+            {
+              "lang": "bn",
+              "text": "বলুন, আমি আশ্রয় গ্রহণ করি ভোরের রবের,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "name_ar": "سورة الناس",
+      "name_en": "An-Nas",
+      "name_bn": "সূরা নাস",
+      "revelation_place": "Makkah",
+      "ayah_count": 6,
+      "ayahs": [
+        {
+          "ayah_no": 1,
+          "text_ar": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+          "translations": [
+            {
+              "lang": "en",
+              "text": "Say, \"I seek refuge in the Lord of mankind,"
+            },
+            {
+              "lang": "bn",
+              "text": "বলুন, আমি আশ্রয় গ্রহণ করি মানুষের রবের,"
+            }
+          ]
+        }
+
+      ]
+    }
+  ]
+}
