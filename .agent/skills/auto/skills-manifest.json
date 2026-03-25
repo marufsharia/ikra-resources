@@ -1,0 +1,27 @@
+{
+  "config": {
+    "enabled": true,
+    "lastGenerated": "2026-03-25T16:09:28.694Z",
+    "observationCount": 41,
+    "skillCount": 0,
+    "domain": "config",
+    "triggerGlobs": [
+      "**/*.yaml",
+      "**/*.yml",
+      "**/*.json",
+      "**/*.toml"
+    ],
+    "description": "Config for ikra-resources. 3 gotchas, 9 conventions, 2 fixes."
+  },
+  "convention": {
+    "enabled": true,
+    "lastGenerated": "2026-03-25T16:09:28.695Z",
+    "observationCount": 0,
+    "skillCount": 1,
+    "domain": "convention",
+    "triggerGlobs": [
+      "**/*"
+    ],
+    "description": "Convention for ikra-resources. ."
+  }
+}

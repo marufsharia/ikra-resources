@@ -1,0 +1,1563 @@
+{
+    "hajj_steps": [
+        {
+            "id": 1,
+            "day": 8,
+            "step_no": 1,
+            "title_bn": "ইহরাম গ্রহণ",
+            "title_en": "Entering Ihram",
+            "details_bn": "মীকাত থেকে ইহরাম বাঁধুন, গোসল করুন, সুগন্ধি ব্যবহার করবেন না, এবং নিয়ত করুন।",
+            "details_en": "Enter Ihram from Miqat, perform ghusl, avoid perfumes, and make the intention (niyyah) for Hajj.",
+            "type": "wajib",
+            "location": "miqat",
+            "is_mandatory": 1,
+            "estimated_time": 45
+        },
+        {
+            "id": 2,
+            "day": 8,
+            "step_no": 2,
+            "title_bn": "মিনায় যাত্রা ও অবস্থান",
+            "title_en": "Travel to and Stay in Mina",
+            "details_bn": "মক্কা থেকে মিনায় যান। সেখানে জোহর, আসর, মাগরিব, ইশা ও ফজরের নামাজ আদায় করুন। রাত কাটান।",
+            "details_en": "Travel from Makkah to Mina. Pray Dhuhr, Asr, Maghrib, Isha, and Fajr there. Spend the night.",
+            "type": "sunnah",
+            "location": "mina",
+            "is_mandatory": 0,
+            "estimated_time": 1440
+        },
+        {
+            "id": 3,
+            "day": 9,
+            "step_no": 1,
+            "title_bn": "আরাফাতে অবস্থান (ওকুফ)",
+            "title_en": "Standing at Arafah (Wuquf)",
+            "details_bn": "সূর্যোদয়ের পর মিনা থেকে আরাফাতে যান। জোহর ও আসর একত্রে অগ্রিম আদায় করুন। ক্ষমা প্রার্থনায় মগ্ন থাকুন। এটি হজ্জের মূল রুকন।",
+            "details_en": "After sunrise, travel from Mina to Arafah. Combine and shorten Dhuhr and Asr prayers. Engage in sincere supplication and repentance. This is the main pillar of Hajj.",
+            "type": "farz",
+            "location": "arafah",
+            "is_mandatory": 1,
+            "estimated_time": 600
+        },
+        {
+            "id": 4,
+            "day": 9,
+            "step_no": 2,
+            "title_bn": "মুজদালিফায় রাত্রিযাপন",
+            "title_en": "Overnight Stay in Muzdalifah",
+            "details_bn": "সূর্যাস্তের পর আরাফাত থেকে মুজদালিফায় যান। মাগরিব ও ইশার নামাজ একত্রে আদায় করুন। রাত কাটান এবং ফজরের পর কঙ্কর সংগ্রহ করুন।",
+            "details_en": "After sunset, depart from Arafah to Muzdalifah. Combine Maghrib and Isha prayers. Spend the night and collect pebbles for the stoning ritual after Fajr.",
+            "type": "wajib",
+            "location": "muzdalifah",
+            "is_mandatory": 1,
+            "estimated_time": 720
+        },
+        {
+            "id": 5,
+            "day": 10,
+            "step_no": 1,
+            "title_bn": "জামারায় কঙ্কর নিক্ষেপ (রামি)",
+            "title_en": "Stoning of the Jamarat (Rami)",
+            "details_bn": "মুজদালিফা থেকে মিনায় ফিরে আসুন। বড় জামারায় (আকাবা) ৭টি কঙ্কর নিক্ষেপ করুন।",
+            "details_en": "Return to Mina from Muzdalifah. Perform the stoning of the large Jamarat (Jamarat al-Aqaba) with 7 pebbles.",
+            "type": "wajib",
+            "location": "mina",
+            "is_mandatory": 1,
+            "estimated_time": 60
+        },
+        {
+            "id": 6,
+            "day": 10,
+            "step_no": 2,
+            "title_bn": "কুরবানি (হাদি)",
+            "title_en": "Sacrifice (Hady)",
+            "details_bn": "কুরবানির পশু (ছাগল, গরু বা উট) যবেহ করুন। নিজে করবেন অথবা প্রতিনিধির মাধ্যমে করান।",
+            "details_en": "Slaughter a sacrificial animal (goat, cow, or camel). You may do it yourself or appoint a representative.",
+            "type": "wajib",
+            "location": "mina",
+            "is_mandatory": 1,
+            "estimated_time": 120
+        },
+        {
+            "id": 7,
+            "day": 10,
+            "step_no": 3,
+            "title_bn": "মাথা মুণ্ডন বা চুল ছোট করা (হালাক বা তাকসির)",
+            "title_en": "Shaving or Trimming Hair (Halq or Taqsir)",
+            "details_bn": "মাথার চুল মুণ্ডন (পুরুষ) বা চুলের ডগা ছোট করুন (মহিলা)। এতে ইহরামের প্রথম বন্ধন খুলে যায়।",
+            "details_en": "Shave the head (for men) or trim the hair (for women). This removes the first restriction of Ihram.",
+            "type": "wajib",
+            "location": "mina",
+            "is_mandatory": 1,
+            "estimated_time": 30
+        },
+        {
+            "id": 8,
+            "day": 10,
+            "step_no": 4,
+            "title_bn": "তাওয়াফে জিয়ারত (ইফাদা)",
+            "title_en": "Tawaf al-Ifadah (Tawaf az-Ziyarah)",
+            "details_bn": "মিনা থেকে মক্কা গিয়ে তাওয়াফ করুন এবং সাঈ করুন। এটি হজ্জের আরেকটি প্রধান রুকন।",
+            "details_en": "Travel to Makkah from Mina to perform Tawaf and Sa'i. This is another essential pillar of Hajj.",
+            "type": "farz",
+            "location": "makkah",
+            "is_mandatory": 1,
+            "estimated_time": 120
+        },
+        {
+            "id": 9,
+            "day": 11,
+            "step_no": 1,
+            "title_bn": "মিনায় অবস্থান ও জামারাত নিক্ষেপ (প্রথম দিন)",
+            "title_en": "Stay in Mina & Stoning of the Jamarat (1st Day of Tashreeq)",
+            "details_bn": "মিনায় রাত কাটান। জোহরের পর তিন জামারায় (ছোট, মাঝারি, বড়) প্রতিটিতে ৭টি করে কঙ্কর নিক্ষেপ করুন।",
+            "details_en": "Spend the night in Mina. After Dhuhr, stone all three Jamarat (small, middle, large) with 7 pebbles each.",
+            "type": "wajib",
+            "location": "mina",
+            "is_mandatory": 1,
+            "estimated_time": 90
+        },
+        {
+            "id": 10,
+            "day": 12,
+            "step_no": 1,
+            "title_bn": "মিনায় অবস্থান ও জামারাত নিক্ষেপ (দ্বিতীয় দিন)",
+            "title_en": "Stay in Mina & Stoning of the Jamarat (2nd Day of Tashreeq)",
+            "details_bn": "মিনায় আরেকটি রাত কাটান। জোহরের পর পুনরায় তিন জামারায় ৭টি করে কঙ্কর নিক্ষেপ করুন।",
+            "details_en": "Spend another night in Mina. After Dhuhr, repeat the stoning of all three Jamarat with 7 pebbles each.",
+            "type": "wajib",
+            "location": "mina",
+            "is_mandatory": 1,
+            "estimated_time": 90
+        },
+        {
+            "id": 11,
+            "day": 12,
+            "step_no": 2,
+            "title_bn": "মক্কায় প্রস্থান (সূর্যাস্তের আগে)",
+            "title_en": "Departure to Makkah (Before Sunset)",
+            "details_bn": "যদি দ্বিতীয় দিনের (১২ জিলহজ) রামি শেষে সূর্যাস্তের আগে মিনা ছেড়ে যান, তাহলে আর তৃতীয় দিনে রামি করতে হবে না।",
+            "details_en": "If you leave Mina after the stoning on the 12th of Dhul Hijjah before sunset, you are not required to perform stoning on the 13th.",
+            "type": "sunnah",
+            "location": "makkah",
+            "is_mandatory": 0,
+            "estimated_time": 60
+        },
+        {
+            "id": 12,
+            "day": 13,
+            "step_no": 1,
+            "title_bn": "জামারাত নিক্ষেপ (তৃতীয় দিন)",
+            "title_en": "Stoning of the Jamarat (3rd Day of Tashreeq)",
+            "details_bn": "যারা ১২ তারিখে মিনা ছাড়েননি, তাদের জন্য ১৩ জিলহজ জোহরের পর তিন জামারায় কঙ্কর নিক্ষেপ করা ওয়াজিব।",
+            "details_en": "For those who did not leave Mina on the 12th, it is wajib to stone all three Jamarat after Dhuhr on the 13th of Dhul Hijjah.",
+            "type": "wajib",
+            "location": "mina",
+            "is_mandatory": 1,
+            "estimated_time": 90
+        },
+        {
+            "id": 13,
+            "day": 13,
+            "step_no": 2,
+            "title_bn": "বিদায়ী তাওয়াফ (তাওয়াফুল ওয়াদা)",
+            "title_en": "Farewell Tawaf (Tawaf al-Wada)",
+            "details_bn": "মক্কা ছেড়ে যাওয়ার শেষ কাজ হলো বিদায়ী তাওয়াফ করা। এটি মক্কার বাসিন্দা ও মহিলাদের জন্য (ঋতুবর্তী ছাড়া) ওয়াজিব।",
+            "details_en": "The final rite before leaving Makkah is to perform the Farewell Tawaf. This is wajib for non-residents of Makkah (except menstruating women).",
+            "type": "wajib",
+            "location": "makkah",
+            "is_mandatory": 1,
+            "estimated_time": 60
+        }
+    ],
+    "tasks": [
+        {
+            "id": 1,
+            "step_id": 1,
+            "title_bn": "গোসল করুন (ইহরামের জন্য)",
+            "title_en": "Perform Ghusl (for Ihram)"
+        },
+        {
+            "id": 2,
+            "step_id": 1,
+            "title_bn": "ইহরামের কাপড় পরিধান করুন",
+            "title_en": "Wear Ihram garments"
+        },
+        {
+            "id": 3,
+            "step_id": 1,
+            "title_bn": "সুগন্ধি ব্যবহার থেকে বিরত থাকুন",
+            "title_en": "Avoid using perfumes"
+        },
+        {
+            "id": 4,
+            "step_id": 1,
+            "title_bn": "হজ্জের নিয়ত করুন এবং তালবিয়া পড়ুন",
+            "title_en": "Make intention for Hajj and recite Talbiyah"
+        },
+        {
+            "id": 5,
+            "step_id": 2,
+            "title_bn": "মক্কা থেকে মিনার উদ্দেশ্যে যাত্রা করুন",
+            "title_en": "Travel from Makkah to Mina"
+        },
+        {
+            "id": 6,
+            "step_id": 2,
+            "title_bn": "মিনায় অবস্থান করুন এবং নামাজ আদায় করুন",
+            "title_en": "Stay in Mina and perform prayers"
+        },
+        {
+            "id": 7,
+            "step_id": 2,
+            "title_bn": "মিনায় রাত অতিবাহিত করুন",
+            "title_en": "Spend the night in Mina"
+        },
+        {
+            "id": 8,
+            "step_id": 3,
+            "title_bn": "সূর্যোদয়ের পর মিনা থেকে আরাফাতে যান",
+            "title_en": "Travel from Mina to Arafah after sunrise"
+        },
+        {
+            "id": 9,
+            "step_id": 3,
+            "title_bn": "জোহর ও আসর একত্রে অগ্রিম আদায় করুন",
+            "title_en": "Combine and shorten Dhuhr and Asr prayers"
+        },
+        {
+            "id": 10,
+            "step_id": 3,
+            "title_bn": "ক্ষমা প্রার্থনা ও দোয়ায় মগ্ন থাকুন (ওকুফ)",
+            "title_en": "Engage in supplication and repentance (Wuquf)"
+        },
+        {
+            "id": 11,
+            "step_id": 4,
+            "title_bn": "সূর্যাস্তের পর আরাফা থেকে মুজদালিফায় যান",
+            "title_en": "Travel from Arafah to Muzdalifah after sunset"
+        },
+        {
+            "id": 12,
+            "step_id": 4,
+            "title_bn": "মাগরিব ও ইশার নামাজ একত্রে আদায় করুন",
+            "title_en": "Combine Maghrib and Isha prayers"
+        },
+        {
+            "id": 13,
+            "step_id": 4,
+            "title_bn": "মুজদালিফায় রাত কাটান এবং কঙ্কর সংগ্রহ করুন",
+            "title_en": "Spend the night and collect pebbles"
+        },
+        {
+            "id": 14,
+            "step_id": 5,
+            "title_bn": "মিনায় ফিরে যান",
+            "title_en": "Return to Mina"
+        },
+        {
+            "id": 15,
+            "step_id": 5,
+            "title_bn": "জামারাতুল আকাবায় (বড় জামারায়) ৭টি কঙ্কর নিক্ষেপ করুন",
+            "title_en": "Stone Jamarat al-Aqaba (the large pillar) with 7 pebbles"
+        },
+        {
+            "id": 16,
+            "step_id": 6,
+            "title_bn": "কুরবানির পশু যবেহ করুন বা প্রতিনিধি দিয়ে করান",
+            "title_en": "Perform the sacrifice (Hady) or arrange for it"
+        },
+        {
+            "id": 17,
+            "step_id": 7,
+            "title_bn": "মাথা মুণ্ডন করুন (পুরুষ) বা চুল ছোট করুন (মহিলা)",
+            "title_en": "Shave head (men) or trim hair (women)"
+        },
+        {
+            "id": 18,
+            "step_id": 8,
+            "title_bn": "মিনা থেকে মক্কায় গমন করুন",
+            "title_en": "Travel to Makkah"
+        },
+        {
+            "id": 19,
+            "step_id": 8,
+            "title_bn": "তাওয়াফে জিয়ারত (ইফাদা) সম্পন্ন করুন",
+            "title_en": "Perform Tawaf al-Ifadah"
+        },
+        {
+            "id": 20,
+            "step_id": 8,
+            "title_bn": "সাফা ও মারওয়ায় সাঈ করুন",
+            "title_en": "Perform Sa'i between Safa and Marwah"
+        },
+        {
+            "id": 21,
+            "step_id": 9,
+            "title_bn": "মিনায় অবস্থান করুন",
+            "title_en": "Stay in Mina"
+        },
+        {
+            "id": 22,
+            "step_id": 9,
+            "title_bn": "জোহরের পর তিন জামারায় ৭টি করে কঙ্কর নিক্ষেপ করুন",
+            "title_en": "After Dhuhr, stone all three Jamarat with 7 pebbles each"
+        },
+        {
+            "id": 23,
+            "step_id": 10,
+            "title_bn": "মিনায় অবস্থান করুন",
+            "title_en": "Stay in Mina"
+        },
+        {
+            "id": 24,
+            "step_id": 10,
+            "title_bn": "জোহরের পর পুনরায় তিন জামারায় ৭টি করে কঙ্কর নিক্ষেপ করুন",
+            "title_en": "After Dhuhr, repeat stoning of all three Jamarat with 7 pebbles each"
+        },
+        {
+            "id": 25,
+            "step_id": 11,
+            "title_bn": "সূর্যাস্তের আগে মিনা ছেড়ে মক্কায় ফিরে যান",
+            "title_en": "Leave Mina for Makkah before sunset"
+        },
+        {
+            "id": 26,
+            "step_id": 12,
+            "title_bn": "জোহরের পর তিন জামারায় ৭টি করে কঙ্কর নিক্ষেপ করুন (শুধুমাত্র যারা অবস্থান করছেন)",
+            "title_en": "After Dhuhr, stone all three Jamarat with 7 pebbles each (only for those staying)"
+        },
+        {
+            "id": 27,
+            "step_id": 13,
+            "title_bn": "মক্কায় গিয়ে বিদায়ী তাওয়াফ (তাওয়াফুল ওয়াদা) করুন",
+            "title_en": "Go to Makkah and perform the Farewell Tawaf (Tawaf al-Wada)"
+        }
+    ],
+    "days": [
+        {
+            "day": 8,
+            "title_bn": "ইয়াওমুত তারউইয়াহ",
+            "title_en": "Day of Tarwiyah",
+            "description_bn": "ইহরাম বেঁধে মিনায় অবস্থান ও রাত্রিযাপন।",
+            "description_en": "Enter Ihram, stay in Mina, and spend the night."
+        },
+        {
+            "day": 9,
+            "title_bn": "ইয়াওমে আরাফা",
+            "title_en": "Day of Arafah",
+            "description_bn": "আরাফাতে অবস্থান (ওকুফ), তারপর মুজদালিফায় রাত্রিযাপন। হজ্জের মূল দিন।",
+            "description_en": "Standing at Arafah (Wuquf), then travel to Muzdalifah for overnight stay. The main day of Hajj."
+        },
+        {
+            "day": 10,
+            "title_bn": "ইয়াওমুন নাহর (কুরবানির দিন)",
+            "title_en": "Day of Sacrifice (Eid al-Adha)",
+            "description_bn": "মিনায় জামারায় কঙ্কর নিক্ষেপ, কুরবানি, মাথা মুণ্ডন, তাওয়াফে জিয়ারত ও সাঈ।",
+            "description_en": "Stoning of the Jamarat, sacrifice, shaving/trimming hair, Tawaf al-Ifadah, and Sa'i in Mina and Makkah."
+        },
+        {
+            "day": 11,
+            "title_bn": "আইয়ামে তাশরিক - প্রথম দিন",
+            "title_en": "Days of Tashreeq - 1st Day",
+            "description_bn": "মিনায় অবস্থান ও জোহরের পর তিন জামারায় কঙ্কর নিক্ষেপ।",
+            "description_en": "Stay in Mina and stone all three Jamarat after Dhuhr."
+        },
+        {
+            "day": 12,
+            "title_bn": "আইয়ামে তাশরিক - দ্বিতীয় দিন",
+            "title_en": "Days of Tashreeq - 2nd Day",
+            "description_bn": "মিনায় অবস্থান ও জোহরের পর তিন জামারায় কঙ্কর নিক্ষেপ। সূর্যাস্তের আগে মিনা ছাড়তে পারেন।",
+            "description_en": "Stay in Mina and stone all three Jamarat after Dhuhr. You may leave Mina before sunset."
+        },
+        {
+            "day": 13,
+            "title_bn": "আইয়ামে তাশরিক - তৃতীয় দিন",
+            "title_en": "Days of Tashreeq - 3rd Day",
+            "description_bn": "যারা ১২ তারিখে মিনা ছাড়েননি, তাদের জন্য জামারায় কঙ্কর নিক্ষেপ। এরপর মক্কায় ফিরে বিদায়ী তাওয়াফ।",
+            "description_en": "For those who did not leave on the 12th, stone the Jamarat. Then return to Makkah for the Farewell Tawaf."
+        }
+    ],
+    "rules": [
+        {
+            "id": 1,
+            "condition": "day == 8",
+            "message_bn": "আজ ইয়াওমুত তারউইয়াহ। মিনায় যাত্রার প্রস্তুতি নিন এবং ইহরাম বাঁধুন।",
+            "message_en": "Today is Yaum at-Tarwiyah. Prepare for the journey to Mina and enter Ihram.",
+            "tone": "motivational"
+        },
+        {
+            "id": 2,
+            "condition": "day == 9 && location == 'arafah'",
+            "message_bn": "আপনি আরাফাতের ময়দানে আছেন। আজ সবচেয়ে গুরুত্বপূর্ণ দিন। বেশি বেশি করে দোয়া করুন ও ক্ষমা প্রার্থনা করুন।",
+            "message_en": "You are on the plains of Arafah. This is the most important day. Engage in abundant supplication and seek forgiveness.",
+            "tone": "urgent"
+        },
+        {
+            "id": 3,
+            "condition": "day == 9 && time >= 1700 && time <= 1900",
+            "message_bn": "সূর্যাস্তের আগ মুহূর্ত। দোয়ার সবচেয়ে উত্তম সময়। হাত উঠিয়ে আল্লাহর কাছে চাইতে থাকুন।",
+            "message_en": "It is the time just before sunset. This is the best time for supplication. Raise your hands and keep asking from Allah.",
+            "tone": "motivational"
+        },
+        {
+            "id": 4,
+            "condition": "day == 10 && step_no == 5",
+            "message_bn": "জামারায় কঙ্কর নিক্ষেপ করছেন। মনে রাখবেন, এটি শয়তানের প্রতীক। আল্লাহর সন্তুষ্টির জন্য এটি করুন।",
+            "message_en": "You are stoning the Jamarat. Remember, it is a symbol of Satan. Do it for the pleasure of Allah.",
+            "tone": "gentle"
+        },
+        {
+            "id": 5,
+            "condition": "day == 10 && step_no == 6",
+            "message_bn": "কুরবানি করছেন। নিশ্চিত করুন যে পশু হালাল ও স্বাস্থ্যবান। দোয়া ভুলবেন না।",
+            "message_en": "You are performing the sacrifice. Ensure the animal is Halal and healthy. Do not forget the Dua.",
+            "tone": "gentle"
+        },
+        {
+            "id": 6,
+            "condition": "day == 10 && step_no == 7",
+            "message_bn": "মাথা মুণ্ডন বা চুল ছোটানোর মাধ্যমে ইহরামের প্রথম বন্ধন খুলছে। আল্লাহ কবুল করুন।",
+            "message_en": "By shaving or trimming your hair, the first restriction of Ihram is lifted. May Allah accept it.",
+            "tone": "motivational"
+        },
+        {
+            "id": 7,
+            "condition": "day == 10 && location == 'makkah' && step_no == 8",
+            "message_bn": "আপনি কাবা শরীফে তাওয়াফ করছেন। আপনার যাবতীয় ইবাদত কবুল হোক।",
+            "message_en": "You are performing Tawaf at the Holy Kaaba. May all your acts of worship be accepted.",
+            "tone": "gentle"
+        },
+        {
+            "id": 8,
+            "condition": "location == 'makkah' && step_id == 8",
+            "message_bn": "সাফা-মারওয়ায় সাঈ করছেন। হযরত হাজেরা (আ.)-এর সংগ্রাম স্মরণ করুন এবং ধৈর্যের সাথে দোয়া করুন।",
+            "message_en": "You are performing Sa'i between Safa and Marwah. Remember the struggle of Hajra (AS) and make Dua with patience.",
+            "tone": "gentle"
+        },
+        {
+            "id": 9,
+            "condition": "(day == 11 || day == 12 || day == 13) && step_id == 9",
+            "message_bn": "আজ আইয়ামে তাশরিকের দিন। তিন জামারায় পাথর নিক্ষেপের মাধ্যমে শয়তানের পথ প্রত্যাখ্যান করুন।",
+            "message_en": "Today is one of the days of Tashreeq. Reject the path of Satan by stoning the three Jamarat.",
+            "tone": "motivational"
+        },
+        {
+            "id": 10,
+            "condition": "day == 12 && step_no == 2",
+            "message_bn": "আপনি মক্কায় ফিরছেন। তাওয়াফে জিয়ারত ও সাঈ হয়ে গেলে আপনার ইহরাম সম্পূর্ণভাবে খুলে গেছে।",
+            "message_en": "You are returning to Makkah. After Tawaf al-Ifadah and Sa'i, your Ihram is completely lifted.",
+            "tone": "motivational"
+        },
+        {
+            "id": 11,
+            "condition": "day == 13 && step_no == 2",
+            "message_bn": "বিদায়ী তাওয়াফ করছেন। এটি আপনার হজ্জের শেষ কাজ। আল্লাহ যেন আপনার হজ্জ কবুল করেন।",
+            "message_en": "You are performing the Farewell Tawaf. This is the final rite of your Hajj. May Allah accept it.",
+            "tone": "gentle"
+        },
+        {
+            "id": 12,
+            "condition": "location == 'muzdalifah'",
+            "message_bn": "আপনি মুজদালিফায় রাত্রি যাপন করছেন। ফজরের পর কঙ্কর সংগ্রহ করুন।",
+            "message_en": "You are spending the night in Muzdalifah. Collect pebbles after Fajr.",
+            "tone": "gentle"
+        },
+        {
+            "id": 13,
+            "condition": "location == 'mina' && (day == 11 || day == 12 || day == 13)",
+            "message_bn": "মিনায় অবস্থান করছেন। জোহরের পর জামারায় কঙ্কর নিক্ষেপ করতে ভুলবেন না।",
+            "message_en": "You are staying in Mina. Do not forget to stone the Jamarat after Dhuhr.",
+            "tone": "gentle"
+        },
+        {
+            "id": 14,
+            "condition": "day == 8 && time >= 600 && time <= 800",
+            "message_bn": "সকালের এই সময়ে ইহরাম বাঁধার উত্তম সময়। গোসল করে ইহরামের কাপড় পরিধান করুন।",
+            "message_en": "This morning time is excellent for entering Ihram. Perform Ghusl and put on the Ihram garments.",
+            "tone": "motivational"
+        },
+        {
+            "id": 15,
+            "condition": "day == 8 && location == 'makkah'",
+            "message_bn": "আপনি এখন মক্কায় আছেন। মিনায় যাত্রা শুরু করার আগে শেষবারের মতো জরুরি কাজগুলো সম্পন্ন করুন।",
+            "message_en": "You are now in Makkah. Complete any essential tasks before starting your journey to Mina.",
+            "tone": "gentle"
+        },
+        {
+            "id": 16,
+            "condition": "day == 8 && location == 'mina'",
+            "message_bn": "আপনি মিনায় পৌঁছে গেছেন। এখানে জোহর, আসর, মাগরিব, ইশা ও ফজরের নামাজ আদায় করবেন।",
+            "message_en": "You have arrived in Mina. You will pray Dhuhr, Asr, Maghrib, Isha, and Fajr here.",
+            "tone": "gentle"
+        },
+        {
+            "id": 17,
+            "condition": "day == 8 && step_id == 1",
+            "message_bn": "ইহরাম অবস্থায় তালবিয়া বেশি বেশি পড়ুন। আল্লাহর ডাকে সাড়া দেওয়ার এই সুবর্ণ সুযোগ।",
+            "message_en": "Recite the Talbiyah abundantly while in Ihram. This is a golden opportunity to respond to Allah's call.",
+            "tone": "motivational"
+        },
+        {
+            "id": 18,
+            "condition": "day == 9 && time >= 400 && time <= 500",
+            "message_bn": "ফজরের নামাজের পর মিনা থেকে আরাফাতের উদ্দেশ্যে যাত্রা করবেন। প্রস্তুতি নিন।",
+            "message_en": "After Fajr prayer, you will depart from Mina to Arafah. Get ready.",
+            "tone": "gentle"
+        },
+        {
+            "id": 19,
+            "condition": "day == 9 && location == 'arafah' && time >= 1200 && time <= 1300",
+            "message_bn": "জোহরের সময় হয়েছে। জোহর ও আসর একত্রে অগ্রিম আদায় করুন। ইমামের সাথে জামাতে নামাজ পড়ুন।",
+            "message_en": "It is time for Dhuhr. Combine and shorten Dhuhr and Asr prayers. Pray in congregation with the Imam.",
+            "tone": "gentle"
+        },
+        {
+            "id": 20,
+            "condition": "day == 9 && location == 'arafah' && time >= 1400 && time <= 1600",
+            "message_bn": "অপরাহ্ণের এই সময় রহমত নাজিল হয়। হাত তুলুন, কান্নাকাটি করুন, আল্লাহর কাছে ক্ষমা চান।",
+            "message_en": "Mercy descends during this afternoon time. Raise your hands, weep, and seek forgiveness from Allah.",
+            "tone": "urgent"
+        },
+        {
+            "id": 21,
+            "condition": "day == 9 && location == 'arafah' && time >= 900 && time <= 1100",
+            "message_bn": "সকালের এই সময়ে দোয়া কবুলের বিশেষ মুহূর্ত। মনোযোগ দিয়ে ইবাদতে মগ্ন থাকুন।",
+            "message_en": "This morning time is a special moment for accepted supplications. Stay focused in worship.",
+            "tone": "motivational"
+        },
+        {
+            "id": 22,
+            "condition": "day == 9 && time >= 1900 && time <= 2100",
+            "message_bn": "আরাফাত থেকে মুজদালিফার উদ্দেশ্যে রওনা হওয়ার সময় হয়েছে। শান্ত ও ধীর গতিতে যান।",
+            "message_en": "It is time to depart from Arafah to Muzdalifah. Proceed calmly and slowly.",
+            "tone": "gentle"
+        },
+        {
+            "id": 23,
+            "condition": "location == 'muzdalifah' && time >= 1900 && time <= 2100",
+            "message_bn": "মুজদালিফায় পৌঁছে মাগরিব ও ইশার নামাজ একত্রে আদায় করুন। এটা সুন্নত।",
+            "message_en": "Upon arriving in Muzdalifah, combine Maghrib and Isha prayers. This is Sunnah.",
+            "tone": "gentle"
+        },
+        {
+            "id": 24,
+            "condition": "location == 'muzdalifah' && time >= 400 && time <= 500",
+            "message_bn": "ফজরের নামাজের পর কঙ্কর সংগ্রহ করুন। প্রয়োজনের চেয়ে কিছু বেশি সংগ্রহ করে রাখুন।",
+            "message_en": "After Fajr prayer, collect pebbles. Gather a few more than you need.",
+            "tone": "gentle"
+        },
+        {
+            "id": 25,
+            "condition": "day == 10 && time >= 500 && time <= 700",
+            "message_bn": "সূর্যোদয়ের আগে মুজদালিফা থেকে মিনায় ফিরে যান। জামারায় কঙ্কর নিক্ষেপের প্রস্তুতি নিন।",
+            "message_en": "Return to Mina from Muzdalifah before sunrise. Prepare for the stoning of the Jamarat.",
+            "tone": "gentle"
+        },
+        {
+            "id": 26,
+            "condition": "day == 10 && step_id == 5 && pebbles_count < 7",
+            "message_bn": "জামারায় ৭টি কঙ্কর নিক্ষেপ করতে হবে। আপনার কাছে পর্যাপ্ত কঙ্কর আছে কিনা নিশ্চিত করুন।",
+            "message_en": "You need to throw 7 pebbles at the Jamarat. Ensure you have enough pebbles.",
+            "tone": "urgent"
+        },
+        {
+            "id": 27,
+            "condition": "day == 10 && step_id == 5 && pebbles_count >= 7",
+            "message_bn": "আপনার কাছে প্রয়োজনীয় কঙ্কর আছে। আল্লাহর নামে নিক্ষেপ করুন।",
+            "message_en": "You have the required pebbles. Throw them in the name of Allah.",
+            "tone": "motivational"
+        },
+        {
+            "id": 28,
+            "condition": "day == 10 && step_id == 5 && jamarat_type == 'al_aqaba'",
+            "message_bn": "আপনি বড় জামারায় (আকাবা) কঙ্কর নিক্ষেপ করছেন। এটি শয়তানের বিরুদ্ধে জিহাদের প্রতীক।",
+            "message_en": "You are stoning the large Jamarat (Al-Aqaba). This symbolizes the struggle against Satan.",
+            "tone": "motivational"
+        },
+        {
+            "id": 29,
+            "condition": "day == 10 && step_id == 6",
+            "message_bn": "কুরবানির পশু যবেহ করার সময় দোয়া পড়ুন: 'বিসমিল্লাহি আল্লাহু আকবার'।",
+            "message_en": "When slaughtering the sacrificial animal, recite: 'Bismillahi Allahu Akbar'.",
+            "tone": "gentle"
+        },
+        {
+            "id": 30,
+            "condition": "day == 10 && step_id == 6 && sacrifice_type == 'camel'",
+            "message_bn": "উট যবেহ করার সময় দাঁড়ানো অবস্থায় নাহর করুন। এটি সুন্নত পদ্ধতি।",
+            "message_en": "When sacrificing a camel, do it while it is standing (Nahr). This is the Sunnah method.",
+            "tone": "gentle"
+        },
+        {
+            "id": 31,
+            "condition": "day == 10 && step_id == 7",
+            "message_bn": "মাথা মুণ্ডন করছেন। হালাক করা উত্তম, তবে তাকসিরও জায়েজ। মহিলারা শুধু চুলের ডগা ছোট করবেন।",
+            "message_en": "You are shaving your head. Halq (full shave) is better, but Taqsir (trimming) is also permissible. Women should only trim a fingertip's length.",
+            "tone": "gentle"
+        },
+        {
+            "id": 32,
+            "condition": "day == 10 && step_id == 8 && tawaf_type == 'ifadah'",
+            "message_bn": "তাওয়াফে ইফাদা হজ্জের ফরজ। সাত চক্কর পূর্ণ করুন এবং হাজরে আসওয়াদে ইশারা করুন।",
+            "message_en": "Tawaf al-Ifadah is Fard (obligatory) for Hajj. Complete seven circuits and gesture towards the Black Stone.",
+            "tone": "urgent"
+        },
+        {
+            "id": 33,
+            "condition": "day == 10 && step_id == 8 && tawaf_circuit == 1",
+            "message_bn": "প্রথম চক্কর শুরু করছেন। 'বিসমিল্লাহি আল্লাহু আকবার' বলে হাজরে আসওয়াদকে ইশারা করুন।",
+            "message_en": "You are starting the first circuit. Say 'Bismillahi Allahu Akbar' and gesture towards the Black Stone.",
+            "tone": "gentle"
+        },
+        {
+            "id": 34,
+            "condition": "day == 10 && step_id == 8 && tawaf_circuit == 4",
+            "message_bn": "চার চক্কর সম্পন্ন হয়েছে। অর্ধেক পথ পেরিয়েছেন। ধৈর্য ধরে চালিয়ে যান।",
+            "message_en": "Four circuits completed. You are halfway through. Continue with patience.",
+            "tone": "motivational"
+        },
+        {
+            "id": 35,
+            "condition": "day == 10 && step_id == 8 && tawaf_circuit == 7",
+            "message_bn": "সপ্তম ও শেষ চক্কর শেষ করছেন। আপনার তাওয়াফ কবুল হোক। এখন সাফা-মারওয়ায় সাঈ করুন।",
+            "message_en": "You are completing the seventh and final circuit. May your Tawaf be accepted. Now proceed to Sa'i between Safa and Marwah.",
+            "tone": "motivational"
+        },
+        {
+            "id": 36,
+            "condition": "step_id == 8 && sai_lap == 1",
+            "message_bn": "সাফা পাহাড়ে উঠে কাবার দিকে তাকিয়ে দোয়া করুন। সাঈ শুরু করছেন।",
+            "message_en": "Stand on Safa hill, face the Kaaba, and make supplication. You are beginning the Sa'i.",
+            "tone": "gentle"
+        },
+        {
+            "id": 37,
+            "condition": "step_id == 8 && sai_lap == 4",
+            "message_bn": "চার ল্যাপ শেষ। দুই পাহাড়ের মাঝে দৌড়ানোর স্থানটিতে পুরুষরা দ্রুত হাঁটবেন।",
+            "message_en": "Four laps completed. In the green zone between the hills, men should walk briskly.",
+            "tone": "gentle"
+        },
+        {
+            "id": 38,
+            "condition": "step_id == 8 && sai_lap == 7",
+            "message_bn": "শেষ ল্যাপ শেষ। মারওয়ায় সাঈ শেষ করছেন। আপনার সাঈ কবুল হোক।",
+            "message_en": "Final lap completed. You are finishing Sa'i at Marwah. May it be accepted.",
+            "tone": "motivational"
+        },
+        {
+            "id": 39,
+            "condition": "day == 11 && time >= 1200 && time <= 1400",
+            "message_bn": "জোহরের সময় হয়েছে। জামারায় কঙ্কর নিক্ষেপের আগে জোহরের নামাজ আদায় করুন।",
+            "message_en": "It is time for Dhuhr. Pray Dhuhr before stoning the Jamarat.",
+            "tone": "gentle"
+        },
+        {
+            "id": 40,
+            "condition": "day == 11 && step_id == 9 && jamarat_type == 'small'",
+            "message_bn": "ছোট জামারায় কঙ্কর নিক্ষেপ করছেন। প্রতিটি কঙ্কর নিক্ষেপের সময় 'আল্লাহু আকবার' বলুন।",
+            "message_en": "You are stoning the small Jamarat. Say 'Allahu Akbar' with each pebble throw.",
+            "tone": "gentle"
+        },
+        {
+            "id": 41,
+            "condition": "day == 11 && step_id == 9 && jamarat_type == 'middle'",
+            "message_bn": "মাঝারি জামারায় কঙ্কর নিক্ষেপ করছেন। নিক্ষেপ শেষে দোয়ার জন্য একটু দাঁড়ান।",
+            "message_en": "You are stoning the middle Jamarat. After throwing, stand for a while and make Dua.",
+            "tone": "gentle"
+        },
+        {
+            "id": 42,
+            "condition": "day == 11 && step_id == 9 && jamarat_type == 'large'",
+            "message_bn": "বড় জামারায় কঙ্কর নিক্ষেপ করছেন। এটি শেষ জামারা। নিক্ষেপ শেষে দোয়া না দাঁড়িয়ে চলে যান।",
+            "message_en": "You are stoning the large Jamarat. This is the last one. Do not stand for Dua after this.",
+            "tone": "gentle"
+        },
+        {
+            "id": 43,
+            "condition": "day == 12 && time >= 1200 && time <= 1400",
+            "message_bn": "জোহরের সময়। আজ দ্বিতীয় দিনের জামারায় কঙ্কর নিক্ষেপ করবেন।",
+            "message_en": "It is time for Dhuhr. Today you will perform the second day's stoning of the Jamarat.",
+            "tone": "gentle"
+        },
+        {
+            "id": 44,
+            "condition": "day == 12 && time >= 1600 && time <= 1800",
+            "message_bn": "সূর্যাস্তের আগে যদি মিনা ছেড়ে যান, তাহলে ১৩ তারিখের জামারায় নিক্ষেপ করতে হবে না। সিদ্ধান্ত নিন।",
+            "message_en": "If you leave Mina before sunset, you do not have to perform stoning on the 13th. Make your decision.",
+            "tone": "gentle"
+        },
+        {
+            "id": 45,
+            "condition": "day == 12 && time >= 1800 && location == 'mina'",
+            "message_bn": "সূর্য অস্ত গেছে। আপনি মিনায় রয়ে গেছেন। আগামীকাল (১৩ তারিখ) আবার জামারায় কঙ্কর নিক্ষেপ করতে হবে।",
+            "message_en": "The sun has set and you are still in Mina. You will need to perform stoning again tomorrow (the 13th).",
+            "tone": "gentle"
+        },
+        {
+            "id": 46,
+            "condition": "day == 13 && time >= 1200 && time <= 1400",
+            "message_bn": "জোহরের সময়। আজ আইয়ামে তাশরিকের শেষ দিন। জামারায় কঙ্কর নিক্ষেপ করুন।",
+            "message_en": "It is time for Dhuhr. Today is the last day of Tashreeq. Perform the stoning of the Jamarat.",
+            "tone": "gentle"
+        },
+        {
+            "id": 47,
+            "condition": "day == 13 && step_id == 12",
+            "message_bn": "আজকের রামি শেষে আপনার মিনার অবস্থান শেষ। এখন মক্কায় ফিরে বিদায়ী তাওয়াফের প্রস্তুতি নিন।",
+            "message_en": "After today's Rami, your stay in Mina is complete. Now prepare to return to Makkah for the Farewell Tawaf.",
+            "tone": "motivational"
+        },
+        {
+            "id": 48,
+            "condition": "day >= 10 && step_id == 13",
+            "message_bn": "বিদায়ী তাওয়াফ করছেন। মনে রাখবেন, এই তাওয়াফের পর আপনি মক্কা ছাড়া পর্যন্ত ইহরামের শেষ বন্ধন অটুট থাকবে।",
+            "message_en": "You are performing the Farewell Tawaf. Remember, after this Tawaf, the final restrictions of Ihram remain until you leave Makkah.",
+            "tone": "gentle"
+        },
+        {
+            "id": 49,
+            "condition": "step_id == 13 && tawaf_circuit == 7",
+            "message_bn": "বিদায়ী তাওয়াফ শেষ। এখন চোখের পানি ধরে রাখুন এবং কাবাকে শেষবারের মতো দর্শন করুন। আল্লাহ হাফিজ।",
+            "message_en": "Farewell Tawaf is complete. Now, hold back your tears and gaze upon the Kaaba one last time. May Allah protect you.",
+            "tone": "motivational"
+        },
+        {
+            "id": 50,
+            "condition": "gender == 'female' && step_id == 13 && is_menstruating == true",
+            "message_bn": "আপনি যদি ঋতুবর্তী হন, তাহলে বিদায়ী তাওয়াফ আবশ্যক নয়। আপনি মক্কা ছেড়ে যেতে পারেন।",
+            "message_en": "If you are menstruating, the Farewell Tawaf is not obligatory for you. You may leave Makkah.",
+            "tone": "gentle"
+        },
+        {
+            "id": 51,
+            "condition": "day == 8 && step_id == 1 && ihram_condition == 'not_performed_ghusl'",
+            "message_bn": "ইহরামের আগে গোসল করা সুন্নত। সুযোগ থাকলে গোসল সেরে নিন।",
+            "message_en": "Performing Ghusl before Ihram is Sunnah. If possible, do it now.",
+            "tone": "gentle"
+        },
+        {
+            "id": 52,
+            "condition": "day == 9 && location == 'arafah' && time >= 1000 && time <= 1100",
+            "message_bn": "আরাফার দিন সকালে নবীজি (সাঃ) খুতবা দিয়েছিলেন। এই সময়ে দোয়া ও জিকিরে মনোযোগী হোন।",
+            "message_en": "On the morning of Arafah, the Prophet (PBUH) delivered a sermon. Focus on Dua and Dhikr during this time.",
+            "tone": "motivational"
+        },
+        {
+            "id": 53,
+            "condition": "day == 9 && location == 'arafah' && time >= 1500 && time <= 1700",
+            "message_bn": "দুপুরের পর থেকে সূর্যাস্ত পর্যন্ত দোয়া কবুলের সবচেয়ে গুরুত্বপূর্ণ সময়। মাগরিবের আগ পর্যন্ত হাত উঠিয়ে দোয়া করুন।",
+            "message_en": "From afternoon until sunset is the most important time for accepted Dua. Keep your hands raised and supplicate until Maghrib.",
+            "tone": "urgent"
+        },
+        {
+            "id": 54,
+            "condition": "location == 'mina' && (day == 8 || day == 11 || day == 12 || day == 13) && time >= 1900 && time <= 2100",
+            "message_bn": "মিনায় রাতের নামাজের সময়। ইশার নামাজ আদায় করুন এবং বিশ্রাম নিন।",
+            "message_en": "It is time for night prayer in Mina. Pray Isha and take some rest.",
+            "tone": "gentle"
+        },
+        {
+            "id": 55,
+            "condition": "day == 10 && step_id == 5 && time >= 500 && time <= 700",
+            "message_bn": "সকালে জামারায় কঙ্কর নিক্ষেপ করা উত্তম। এখনই এটি সম্পন্ন করুন।",
+            "message_en": "Stoning the Jamarat in the morning is preferred. Complete it now.",
+            "tone": "motivational"
+        },
+        {
+            "id": 56,
+            "condition": "day == 10 && step_id == 6 && sacrifice_issue == true",
+            "message_bn": "কুরবানি সংক্রান্ত কোনো জটিলতা থাকলে দ্রুত সংশ্লিষ্ট কর্তৃপক্ষের সাথে যোগাযোগ করুন।",
+            "message_en": "If you face any issue with the sacrifice, contact the relevant authorities immediately.",
+            "tone": "urgent"
+        },
+        {
+            "id": 57,
+            "condition": "day == 10 && step_id == 8 && tawaf_time_restriction == true",
+            "message_bn": "তাওয়াফে জিয়ারতের জন্য দিনের যেকোনো সময় করা যায়। তবে ভিড় এড়াতে ভোর বা রাতের দিকে করুন।",
+            "message_en": "Tawaf al-Ifadah can be performed at any time. To avoid crowds, consider doing it early morning or late night.",
+            "tone": "gentle"
+        },
+        {
+            "id": 58,
+            "condition": "location == 'makkah' && step_id == 8 && sai_count == 7",
+            "message_bn": "সাঈ সম্পন্ন হয়েছে। এখন আপনি ইহরামের সব বন্ধন থেকে মুক্ত। সব কাজ হালাল হয়েছে।",
+            "message_en": "Sa'i is complete. You are now free from all restrictions of Ihram. Everything is permissible again.",
+            "tone": "motivational"
+        },
+        {
+            "id": 59,
+            "condition": "day >= 10 && step_id == 13 && tawaf_al_wada_missed == true",
+            "message_bn": "বিদায়ী তাওয়াফ করা ওয়াজিব। মক্কা ছাড়ার আগে এটি সম্পন্ন করুন। যদি সম্ভব না হয়, দাম (ক্ষতিপূরণ) দিতে হবে।",
+            "message_en": "Farewell Tawaf is Wajib. Perform it before leaving Makkah. If not possible, a Dam (compensation) is required.",
+            "tone": "urgent"
+        },
+        {
+            "id": 60,
+            "condition": "day >= 10 && health_condition == 'elderly_or_sick'",
+            "message_bn": "আপনি যদি অসুস্থ বা বৃদ্ধ হন, তাহলে তাওয়াফ, সাঈ ও জামারার কাজগুলো হুইলচেয়ার বা প্রতিনিধির মাধ্যমে করতে পারেন।",
+            "message_en": "If you are elderly or sick, you may perform Tawaf, Sa'i, and stoning using a wheelchair or through a representative.",
+            "tone": "gentle"
+        },
+        {
+            "id": 61,
+            "condition": "step_id == 9 && time >= 1200 && time <= 1500 && (day == 11 || day == 12 || day == 13)",
+            "message_bn": "জোহর থেকে সূর্যাস্তের মধ্যে জামারায় কঙ্কর নিক্ষেপ করতে হবে। জোহরের পরপরই করে নিন।",
+            "message_en": "Stoning must be done between Dhuhr and sunset. Perform it immediately after Dhuhr.",
+            "tone": "gentle"
+        },
+        {
+            "id": 62,
+            "condition": "day == 10 && step_id == 7 && hair_type == 'shaved'",
+            "message_bn": "মাথা মুণ্ডন করায় আল্লাহর কাছে বিশেষ সওয়াব রয়েছে। নবীজি (সাঃ) হালাককারীদের জন্য ৩ বার দোয়া করেছেন।",
+            "message_en": "Shaving the head carries special reward with Allah. The Prophet (PBUH) made Dua three times for those who shaved.",
+            "tone": "motivational"
+        },
+        {
+            "id": 63,
+            "condition": "step_id == 8 && zamzam_drunk == false",
+            "message_bn": "তাওয়াফ ও সাঈ শেষে যমযম পানি পান করুন। এটি উত্তম সুন্নত।",
+            "message_en": "After Tawaf and Sa'i, drink Zamzam water. This is a blessed Sunnah.",
+            "tone": "gentle"
+        },
+        {
+            "id": 64,
+            "condition": "location == 'makkah' && step_id == 8 && after_tawaf_sai == true",
+            "message_bn": "তাওয়াফ ও সাঈ শেষ করেছেন। এখন মিনায় ফিরে যেতে পারেন অথবা মক্কায় ইবাদতে মশগুল থাকতে পারেন।",
+            "message_en": "You have completed Tawaf and Sa'i. You may now return to Mina or continue worshipping in Makkah.",
+            "tone": "gentle"
+        },
+        {
+            "id": 65,
+            "condition": "day == 8 && ihram_miqat_missed == true",
+            "message_bn": "মীকাত অতিক্রমের আগে ইহরাম না করলে দাম (ক্ষতিপূরণ) দিতে হবে। কর্তৃপক্ষের সাথে যোগাযোগ করুন।",
+            "message_en": "If you crossed Miqat without Ihram, you must pay Dam (compensation). Contact the authorities.",
+            "tone": "urgent"
+        },
+        {
+            "id": 66,
+            "condition": "day == 9 && location == 'arafah' && time >= 800 && time <= 900",
+            "message_bn": "সকাল বেলায় আরাফাতে এসে পৌঁছেছেন। আপনার তent বা নির্ধারিত স্থানে অবস্থান নিন।",
+            "message_en": "You have arrived in Arafah in the morning. Settle in your tent or designated area.",
+            "tone": "gentle"
+        },
+        {
+            "id": 67,
+            "condition": "day == 9 && location == 'muzdalifah' && time >= 2000 && time <= 2200",
+            "message_bn": "মুজদালিফায় রাত কাটান। নামাজ শেষে কিছুক্ষণ বিশ্রাম নিন এবং তাহাজ্জুদের জন্য জাগার চেষ্টা করুন।",
+            "message_en": "Spend the night in Muzdalifah. After prayers, rest for a while and try to wake up for Tahajjud.",
+            "tone": "gentle"
+        },
+        {
+            "id": 68,
+            "condition": "day == 10 && step_id == 5 && pebbles_thrown > 7",
+            "message_bn": "একটি জামারায় ৭টির বেশি কঙ্কর নিক্ষেপ করা জায়েজ নেই। সাবধান থাকুন।",
+            "message_en": "It is not permissible to throw more than 7 pebbles at one Jamarat. Be careful.",
+            "tone": "urgent"
+        },
+        {
+            "id": 69,
+            "condition": "day == 10 && step_id == 6 && sacrifice_animal == 'goat'",
+            "message_bn": "ছাগল কুরবানি করছেন। নিশ্চিত করুন যে ছাগলটি এক বছর বা তার বেশি বয়সের।",
+            "message_en": "You are sacrificing a goat. Ensure the goat is at least one year old.",
+            "tone": "gentle"
+        },
+        {
+            "id": 70,
+            "condition": "day == 10 && step_id == 6 && sacrifice_animal == 'cow'",
+            "message_bn": "গরু কুরবানি করছেন। একটি গরু ৭ জনের পক্ষ থেকে কুরবানি হতে পারে।",
+            "message_en": "You are sacrificing a cow. One cow can be shared by up to 7 people.",
+            "tone": "gentle"
+        },
+        {
+            "id": 71,
+            "condition": "day == 10 && step_id == 6 && sacrifice_animal == 'camel'",
+            "message_bn": "উট কুরবানি করছেন। একটি উট ৭ জনের পক্ষ থেকে কুরবানি হতে পারে।",
+            "message_en": "You are sacrificing a camel. One camel can be shared by up to 7 people.",
+            "tone": "gentle"
+        },
+        {
+            "id": 72,
+            "condition": "location == 'makkah' && tawaf_time == 'night'",
+            "message_bn": "রাতে তাওয়াফ করা খুবই সওয়াবের কাজ। পরিবেশ শান্ত থাকে এবং ইবাদতে মন বসে।",
+            "message_en": "Performing Tawaf at night is very rewarding. The atmosphere is peaceful and conducive to worship.",
+            "tone": "motivational"
+        },
+        {
+            "id": 73,
+            "condition": "location == 'makkah' && weather_condition == 'extreme_heat'",
+            "message_bn": "আবহাওয়া খুব গরম। তাওয়াফ ও সাঈ করার সময় পর্যাপ্ত পানি পান করুন এবং ছাতা ব্যবহার করুন।",
+            "message_en": "The weather is extremely hot. Drink plenty of water and use an umbrella while performing Tawaf and Sa'i.",
+            "tone": "gentle"
+        },
+        {
+            "id": 74,
+            "condition": "step_id == 3 && time_remaining_in_arafah < 60",
+            "message_bn": "আরাফাত ছাড়ার আগে মাত্র এক ঘন্টা বাকি। এই সময়ে বেশি বেশি ইস্তিগফার ও দোয়া করুন।",
+            "message_en": "Only one hour left before leaving Arafah. Spend this time in abundant Istighfar and Dua.",
+            "tone": "urgent"
+        },
+        {
+            "id": 75,
+            "condition": "day == 10 && step_id == 8 && tawaf_ifadah_completed == true",
+            "message_bn": "তাওয়াফে ইফাদা সম্পন্ন হয়েছে। এখন আপনি ইহরামের সব বন্ধন থেকে মুক্ত। সব কিছু হালাল হয়েছে।",
+            "message_en": "Tawaf al-Ifadah is complete. You are now free from all Ihram restrictions. Everything is permissible.",
+            "tone": "motivational"
+        },
+        {
+            "id": 76,
+            "condition": "location == 'masjid_al_haram' && prayer_time_entered == true",
+            "message_bn": "মসজিদুল হারামে নামাজের সময় হয়েছে। জামাতে নামাজে অংশগ্রহণ করুন।",
+            "message_en": "Prayer time has begun in Masjid al-Haram. Join the congregation for prayer.",
+            "tone": "gentle"
+        },
+        {
+            "id": 77,
+            "condition": "step_id == 5 && jamarat_crowd_level == 'high'",
+            "message_bn": "জামারায় প্রচন্ড ভিড়। নিরাপদ থাকতে অফ-পিক সময়ে (ভোর বা রাত) কঙ্কর নিক্ষেপ করুন।",
+            "message_en": "There is a huge crowd at the Jamarat. Stay safe by stoning during off-peak hours (dawn or late night).",
+            "tone": "urgent"
+        },
+        {
+            "id": 78,
+            "condition": "step_id == 8 && sai_energy_level == 'low'",
+            "message_bn": "সাঈ করতে ক্লান্ত লাগছে। প্রয়োজনে বিরতি নিন, পানি পান করুন, তারপর আবার শুরু করুন। ধৈর্য ধরুন।",
+            "message_en": "You are feeling tired while doing Sa'i. Take a break if needed, drink water, and then continue. Be patient.",
+            "tone": "gentle"
+        },
+        {
+            "id": 79,
+            "condition": "day == 9 && location == 'arafah' && time >= 1200 && time <= 1300 && prayer_performed == true",
+            "message_bn": "জোহর ও আসরের নামাজ শেষ। এখন থেকে সূর্যাস্ত পর্যন্ত দোয়ায় মগ্ন থাকুন। এটাই আরাফার মূল কাজ।",
+            "message_en": "Dhuhr and Asr prayers are done. Now, remain engaged in Dua until sunset. This is the essence of Arafah.",
+            "tone": "motivational"
+        },
+        {
+            "id": 80,
+            "condition": "day == 10 && step_id == 5 && jamarat_order == 'correct'",
+            "message_bn": "আপনি সঠিক ক্রমে জামারায় কঙ্কর নিক্ষেপ করছেন। আল্লাহ কবুল করুন।",
+            "message_en": "You are stoning the Jamarat in the correct order. May Allah accept it.",
+            "tone": "motivational"
+        },
+        {
+            "id": 81,
+            "condition": "day == 10 && step_id == 5 && jamarat_order == 'incorrect'",
+            "message_bn": "জামারায় কঙ্কর নিক্ষেপের ক্রম সঠিক নয়। আগে ছোট, তারপর মাঝারি, তারপর বড় জামারায় নিক্ষেপ করুন।",
+            "message_en": "The order of stoning is incorrect. First stone the small, then the middle, then the large Jamarat.",
+            "tone": "urgent"
+        },
+        {
+            "id": 82,
+            "condition": "step_id == 8 && tawaf_circuit == 1 && hajr_al_aswad_kissed == true",
+            "message_bn": "হাজরে আসওয়াদে চুম্বন বা ইশারা করেছেন। এখন তাওয়াফ শুরু করুন।",
+            "message_en": "You have kissed or gestured to the Black Stone. Now begin your Tawaf.",
+            "tone": "gentle"
+        },
+        {
+            "id": 83,
+            "condition": "day == 9 && location == 'arafah' && time >= 600 && time <= 700",
+            "message_bn": "ভোর বেলায় আরাফাতে এসে পৌঁছেছেন। সকালের এই সময় রহমত নাজিল হয়। বেশি বেশি দোয়া করুন।",
+            "message_en": "You have arrived in Arafah at dawn. Mercy descends during this early morning time. Make plenty of Dua.",
+            "tone": "motivational"
+        },
+        {
+            "id": 84,
+            "condition": "location == 'muzdalifah' && time >= 500 && time <= 600 && pebbles_collected == true",
+            "message_bn": "ফজরের পর কঙ্কর সংগ্রহ করেছেন। এখন সূর্যোদয়ের আগে মিনার উদ্দেশ্যে রওনা হোন।",
+            "message_en": "You have collected pebbles after Fajr. Now depart for Mina before sunrise.",
+            "tone": "gentle"
+        },
+        {
+            "id": 85,
+            "condition": "day == 10 && step_id == 8 && tawaf_ifadah_time == 'late_night'",
+            "message_bn": "গভীর রাতে তাওয়াফ করছেন। এই সময় ইবাদতের ফজিলত অনেক বেশি।",
+            "message_en": "You are performing Tawaf in the late night. Worship at this time carries immense virtue.",
+            "tone": "motivational"
+        },
+        {
+            "id": 86,
+            "condition": "day == 11 && step_id == 9 && time >= 1500 && time <= 1700",
+            "message_bn": "আসরের আগেও জামারায় কঙ্কর নিক্ষেপ করা যায়। তবে জোহরের পরপরই করা উত্তম।",
+            "message_en": "Stoning can also be done before Asr. However, it is better to do it immediately after Dhuhr.",
+            "tone": "gentle"
+        },
+        {
+            "id": 87,
+            "condition": "day == 12 && step_id == 10 && decision_to_stay == true",
+            "message_bn": "আপনি ১২ তারিখ মিনায় থাকার সিদ্ধান্ত নিয়েছেন। তাহলে আগামীকাল (১৩ তারিখ) আবার জামারায় কঙ্কর নিক্ষেপ করতে হবে।",
+            "message_en": "You have decided to stay in Mina on the 12th. You will need to perform stoning again tomorrow (the 13th).",
+            "tone": "gentle"
+        },
+        {
+            "id": 88,
+            "condition": "day == 13 && step_id == 12 && rami_completed == true",
+            "message_bn": "আজকের জামারায় কঙ্কর নিক্ষেপ শেষ। এখন মিনার সব কার্যক্রম শেষ। মক্কায় ফেরার প্রস্তুতি নিন।",
+            "message_en": "Today's stoning is complete. All activities in Mina are now finished. Prepare to return to Makkah.",
+            "tone": "motivational"
+        },
+        {
+            "id": 89,
+            "condition": "step_id == 13 && wada_tawaf_niyyah == true",
+            "message_bn": "বিদায়ী তাওয়াফের নিয়ত করুন। এই তাওয়াফের পর আপনি মক্কা ছাড়বেন।",
+            "message_en": "Make the intention for the Farewell Tawaf. After this Tawaf, you will leave Makkah.",
+            "tone": "gentle"
+        },
+        {
+            "id": 90,
+            "condition": "day == 10 && step_id == 8 && sai_completed == true",
+            "message_bn": "সাঈ সম্পন্ন হয়েছে। আপনার হজ্জের সব প্রধান রুকন শেষ। আলহামদুলিল্লাহ!",
+            "message_en": "Sa'i is complete. All the main pillars of your Hajj are finished. Alhamdulillah!",
+            "tone": "motivational"
+        },
+        {
+            "id": 91,
+            "condition": "location == 'makkah' && step_id == 8 && multazam_dua_made == false",
+            "message_bn": "তাওয়াফ শেষে মুলতাজিমে (কাবা ঘরের দরজা ও হাজরে আসওয়াদের মধ্যবর্তী স্থান) গিয়ে দোয়া করা উত্তম।",
+            "message_en": "After Tawaf, it is recommended to go to Multazam (the area between the Kaaba door and the Black Stone) and make Dua.",
+            "tone": "gentle"
+        },
+        {
+            "id": 92,
+            "condition": "day == 9 && location == 'arafah' && sunset_approaching == true",
+            "message_bn": "সূর্য ডুবে আসছে। আরাফার দিন শেষ। এখন মুজদালিফার উদ্দেশ্যে রওনা হবেন।",
+            "message_en": "The sun is setting. The Day of Arafah is ending. You will now depart for Muzdalifah.",
+            "tone": "motivational"
+        },
+        {
+            "id": 93,
+            "condition": "day == 10 && step_id == 7 && hair_trimming_done_by_woman == true",
+            "message_bn": "আপনি চুলের ডগা ছোট করেছেন। মহিলাদের জন্য এটাই উত্তম পদ্ধতি। আল্লাহ কবুল করুন।",
+            "message_en": "You have trimmed your hair. This is the preferred method for women. May Allah accept it.",
+            "tone": "gentle"
+        },
+        {
+            "id": 94,
+            "condition": "step_id == 8 && tawaf_circuit_count == 3",
+            "message_bn": "তিন চক্কর শেষ। রুকনে ইয়ামানিতে (ইয়েমেনী কোণ) হাত না তুলে ইশারা করুন এবং দোয়া করুন।",
+            "message_en": "Three circuits completed. At the Yemeni Corner, gesture without raising your hands and make Dua.",
+            "tone": "gentle"
+        },
+        {
+            "id": 95,
+            "condition": "day == 8 && step_id == 2 && tent_number_confirmed == true",
+            "message_bn": "আপনার মিনার টেন্ট নম্বর নিশ্চিত করুন। রাতের বেলা টেন্ট খুঁজতে সমস্যা হতে পারে।",
+            "message_en": "Confirm your Mina tent number. You might have difficulty finding it at night.",
+            "tone": "gentle"
+        },
+        {
+            "id": 96,
+            "condition": "location == 'arafah' && time == 'zawal'",
+            "message_bn": "সূর্য হেলে পড়েছে। জোহরের সময় হয়েছে। ইমামের খুতবার পর জামাতে নামাজ পড়ুন।",
+            "message_en": "The sun has passed its zenith. It is time for Dhuhr. Pray in congregation after the Imam's sermon.",
+            "tone": "gentle"
+        },
+        {
+            "id": 97,
+            "condition": "day == 10 && step_id == 5 && pebbles_source == 'muzdalifah'",
+            "message_bn": "আপনি মুজদালিফা থেকে সংগ্রহ করা কঙ্কর ব্যবহার করছেন। এটি সুন্নত।",
+            "message_en": "You are using pebbles collected from Muzdalifah. This is Sunnah.",
+            "tone": "gentle"
+        },
+        {
+            "id": 98,
+            "condition": "day == 10 && step_id == 5 && pebbles_source == 'other'",
+            "message_bn": "আপনি অন্য জায়গা থেকে কঙ্কর সংগ্রহ করেছেন। এটিও জায়েজ আছে, তবে মুজদালিফা থেকে সংগ্রহ করা উত্তম।",
+            "message_en": "You have collected pebbles from elsewhere. This is also permissible, but collecting from Muzdalifah is better.",
+            "tone": "gentle"
+        },
+        {
+            "id": 99,
+            "condition": "step_id == 8 && sai_phase == 'green_zone'",
+            "message_bn": "সাফা-মারওয়ার মাঝের সবুজ অংশে পৌঁছেছেন। পুরুষরা এখানে দ্রুত হাঁটবেন।",
+            "message_en": "You have reached the green zone between Safa and Marwah. Men should walk briskly here.",
+            "tone": "gentle"
+        },
+        {
+            "id": 100,
+            "condition": "day >= 10 && step_id == 13 && wada_tawaf_completed == true",
+            "message_bn": "বিদায়ী তাওয়াফ সম্পন্ন। আপনার হজ্জের সব আনুষ্ঠানিকতা শেষ। আল্লাহ আপনার হজ্জ কবুল করুন। নিরাপদে বাড়ি ফিরুন।",
+            "message_en": "Farewell Tawaf is complete. All your Hajj rituals are finished. May Allah accept your Hajj. Return home safely.",
+            "tone": "motivational"
+        },
+        {
+            "id": 101,
+            "condition": "day == 10 && step_id == 6 && sacrifice_meat_distributed == true",
+            "message_bn": "কুরবানির গোশত বিতরণ করেছেন। মনে রাখবেন, আপনি নিজেও এটি খেতে পারেন।",
+            "message_en": "You have distributed the sacrificial meat. Remember, you may also eat from it yourself.",
+            "tone": "gentle"
+        },
+        {
+            "id": 102,
+            "condition": "location == 'makkah' && tawaf_time == 'rain'",
+            "message_bn": "বৃষ্টিতে তাওয়াফ করা খুবই ফজিলতপূর্ণ। পবিত্র কাবার আঙিনায় বৃষ্টি ধরা সৌভাগ্যের বিষয়।",
+            "message_en": "Performing Tawaf in the rain is highly virtuous. Being blessed by rain in the courtyard of the Holy Kaaba is a sign of good fortune.",
+            "tone": "motivational"
+        },
+        {
+            "id": 103,
+            "condition": "step_id == 1 && talbiyah_recited == false",
+            "message_bn": "ইহরামের পর তালবিয়া পড়তে ভুলবেন না। উচ্চৈঃস্বরে তালবিয়া পড়া পুরুষদের জন্য সুন্নত।",
+            "message_en": "Do not forget to recite the Talbiyah after Ihram. Reciting it loudly is Sunnah for men.",
+            "tone": "gentle"
+        },
+        {
+            "id": 104,
+            "condition": "day == 9 && location == 'arafah' && dua_list_suggested == true",
+            "message_bn": "আরাফার দিনের উত্তম দোয়া: 'লা ইলাহা ইল্লাল্লাহু ওয়াহদাহু লা শারিকা লাহু, লাহুল মুলকু ওয়া লাহুল হামদু ওয়া হুয়া আলা কুল্লি শাইয়িন কাদির'।",
+            "message_en": "The best Dua for the Day of Arafah: 'There is no god but Allah alone, He has no partner. To Him belongs the dominion and all praise, and He is over all things Omnipotent.'",
+            "tone": "motivational"
+        },
+        {
+            "id": 105,
+            "condition": "day == 10 && step_id == 8 && tawaf_ifadah_reward == 'high'",
+            "message_bn": "তাওয়াফে ইফাদা হজ্জের ফরজ। এটি সঠিকভাবে সম্পন্ন করলে হজ্জ পূর্ণ হয়।",
+            "message_en": "Tawaf al-Ifadah is obligatory for Hajj. Completing it correctly completes your Hajj.",
+            "tone": "motivational"
+        },
+        {
+            "id": 106,
+            "condition": "location == 'muzdalifah' && time >= 200 && time <= 400",
+            "message_bn": "মুজদালিফায় রাতের শেষ প্রহর। যারা তাহাজ্জুদ পড়তে চান, এই উত্তম সময়।",
+            "message_en": "It is the last third of the night in Muzdalifah. This is an excellent time for those who wish to pray Tahajjud.",
+            "tone": "motivational"
+        },
+        {
+            "id": 107,
+            "condition": "day == 10 && step_id == 8 && tawaf_circuit == 2 && yamani_corner_reached == true",
+            "message_bn": "রুকনে ইয়ামানিতে পৌঁছেছেন। এখানে হাত না তুলে ইশারা করুন এবং দোয়া পড়ুন।",
+            "message_en": "You have reached the Yemeni Corner. Gesture without raising your hands and recite Dua here.",
+            "tone": "gentle"
+        },
+        {
+            "id": 108,
+            "condition": "day == 8 && step_id == 1 && ihram_garments_checked == true",
+            "message_bn": "ইহরামের কাপড় সঠিকভাবে পরেছেন। নিশ্চিত করুন যে সেলাইবিহীন এবং পরিষ্কার।",
+            "message_en": "You have put on the Ihram garments correctly. Ensure they are seamless and clean.",
+            "tone": "gentle"
+        },
+        {
+            "id": 109,
+            "condition": "day == 9 && location == 'muzdalifah' && time >= 1800 && time <= 2000",
+            "message_bn": "মুজদালিফায় পৌঁছে মাগরিব ও ইশা একত্রে পড়ুন। এখানে সংক্ষেপ করবেন না।",
+            "message_en": "Upon reaching Muzdalifah, combine Maghrib and Isha. Do not shorten them.",
+            "tone": "gentle"
+        },
+        {
+            "id": 110,
+            "condition": "day == 10 && step_id == 7 && hair_shaving_intention_made == true",
+            "message_bn": "মাথা মুণ্ডনের মাধ্যমে আপনি আল্লাহর নির্দেশ পালন করছেন। আপনার এই বিনয় কবুল হোক।",
+            "message_en": "By shaving your head, you are obeying Allah's command. May this act of humility be accepted.",
+            "tone": "motivational"
+        },
+        {
+            "id": 111,
+            "condition": "day >= 10 && step_id == 13 && leaving_makkah_time_confirmed == true",
+            "message_bn": "মক্কা ছাড়ার সময় নিশ্চিত করুন। বিদায়ী তাওয়াফের পর আর গুনাহের কাজ করা যাবে না (যেমন সুগন্ধি ব্যবহার)।",
+            "message_en": "Confirm your departure time from Makkah. After the Farewell Tawaf, avoid sinful acts (such as using perfume) until you leave.",
+            "tone": "gentle"
+        },
+        {
+            "id": 112,
+            "condition": "location == 'makkah' && tawaf_completed == true && sai_completed == false",
+            "message_bn": "তাওয়াফ শেষ হয়েছে। এখন সাফা-মারওয়ায় সাঈ করতে ভুলবেন না। সাঈ ফরজ নয় কিন্তু ওয়াজিব।",
+            "message_en": "Tawaf is complete. Do not forget to perform Sa'i between Safa and Marwah. Sa'i is Wajib (obligatory).",
+            "tone": "gentle"
+        },
+        {
+            "id": 113,
+            "condition": "day == 9 && location == 'arafah' && time == 'sunset'",
+            "message_bn": "আরাফাতের দিন সূর্যাস্তের সাথে সাথে ওকুফ শেষ হয়। এখন মুজদালিফার উদ্দেশ্যে রওনা হন।",
+            "message_en": "The Wuquf at Arafah ends at sunset. Now depart for Muzdalifah.",
+            "tone": "motivational"
+        }
+    ],
+    "packings": [
+        {
+            "title_bn": "ইহরামের কাপড় (২ সেট - তুলার/টেরিলিন)",
+            "title_en": "Ihram cloth (2 sets - cotton/terylene)",
+            "category": "clothing",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "সাদা রঙের, সেলাইবিহীন, আরামদায়ক কাপড় নির্বাচন করুন। অতিরিক্ত ১ সেট রাখুন।",
+            "tips_en": "Choose white, seamless, comfortable fabric. Keep 1 extra set."
+        },
+        {
+            "title_bn": "সাধারণ পোশাক (পুরুষ: পাঞ্জাবি/পায়জামা, মহিলা: আবায়া/শালোয়ার কামিজ)",
+            "title_en": "Regular clothing (Men: Punjabi/Pyjama, Women: Abaya/Shalwar Kameez)",
+            "category": "clothing",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "হালকা রঙের, সুতি কাপড়ের পোশাক নিন। ৫-৭ দিনের জন্য পর্যাপ্ত রাখুন।",
+            "tips_en": "Take light-colored, cotton clothing. Keep enough for 5-7 days."
+        },
+        {
+            "title_bn": "স্যান্ডেল / চপ্পল (ইহরামের সময় ব্যবহারযোগ্য)",
+            "title_en": "Sandals / Slippers (wearable during Ihram)",
+            "category": "clothing",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "গোড়ালি ও পায়ের পাতা খোলা, সেলাইবিহীন স্যান্ডেল নিন। আরামদায়ক ও মজবুত হোক।",
+            "tips_en": "Take open-heel, open-toe, seamless sandals. Ensure they are comfortable and durable."
+        },
+        {
+            "title_bn": "মোজা (সাধারণ ও ইহরামের পর ব্যবহারের জন্য)",
+            "title_en": "Socks (regular and for after Ihram)",
+            "category": "clothing",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "হালকা সুতি মোজা ৩-৪ জোড়া রাখুন। ইহরাম অবস্থায় মোজা পরা যাবে না।",
+            "tips_en": "Keep 3-4 pairs of lightweight cotton socks. Socks are not allowed during Ihram."
+        },
+        {
+            "title_bn": "বেল্ট / কোমরবন্ধ (ইহরামের জন্য - মানিব্যাগ সংরক্ষণ)",
+            "title_en": "Belt / Waist pouch (for Ihram - to store valuables)",
+            "category": "clothing",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "সেলাইবিহীন বেল্ট বা কাপড়ের পাউচ ব্যবহার করুন। গুরুত্বপূর্ণ কাগজ ও টাকা রাখার জন্য।",
+            "tips_en": "Use a seamless belt or cloth pouch. For storing important documents and cash."
+        },
+        {
+            "title_bn": "টুপি / ক্যাপ (ইহরামের পর ব্যবহারের জন্য)",
+            "title_en": "Cap / Hat (for after Ihram)",
+            "category": "clothing",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "সাদা রঙের, হালকা ক্যাপ বা টুপি নিন। রোদ থেকে মাথা রক্ষার জন্য।",
+            "tips_en": "Take a white, lightweight cap or hat. For protection from the sun."
+        },
+        {
+            "title_bn": "লুঙ্গি / সাদা কাপড় (মিনা-মুযদালিফায় ব্যবহারের জন্য)",
+            "title_en": "Sarong / White cloth (for use in Mina-Muzdalifah)",
+            "category": "clothing",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "হালকা সুতি লুঙ্গি বা চাদর রাখুন। রাতে ঘুমানোর সময় ও নামাজের জন্য।",
+            "tips_en": "Keep a lightweight cotton sarong or sheet. For sleeping at night and prayer."
+        },
+        {
+            "title_bn": "অতিরিক্ত অন্তর্বাস (৫-৬ সেট)",
+            "title_en": "Extra underwear (5-6 sets)",
+            "category": "clothing",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "আরামদায়ক সুতি অন্তর্বাস নিন। ইহরামের পর ব্যবহারের জন্য।",
+            "tips_en": "Take comfortable cotton underwear. For use after Ihram."
+        },
+        {
+            "title_bn": "প্রয়োজনীয় ওষুধ (ডায়াবেটিস/বিপি/হৃদরোগের নিয়মিত ওষুধ)",
+            "title_en": "Regular medicines (Diabetes/BP/Heart disease)",
+            "category": "health",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "প্রেসক্রিপশনসহ অতিরিক্ত ১৫ দিনের ওষুধ রাখুন। ডাক্তারের পরামর্শ নিন।",
+            "tips_en": "Keep extra 15 days of medicine with prescription. Consult your doctor."
+        },
+        {
+            "title_bn": "প্যারাসিটামল / ব্যথানাশক ট্যাবলেট",
+            "title_en": "Paracetamol / Pain relief tablets",
+            "category": "health",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "জ্বর, মাথাব্যথা, শরীর ব্যথার জন্য। ২০-৩০ টি ট্যাবলেট রাখুন।",
+            "tips_en": "For fever, headache, body pain. Keep 20-30 tablets."
+        },
+        {
+            "title_bn": "ওআরএস (ORS) / স্যালাইন পাউডার",
+            "title_en": "ORS / Saline powder",
+            "category": "health",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "ডায়রিয়া ও পানিশূন্যতা প্রতিরোধে ১০-১৫ প্যাকেট রাখুন।",
+            "tips_en": "Keep 10-15 packets for preventing diarrhea and dehydration."
+        },
+        {
+            "title_bn": "ভ্যাসলিন / লুব্রিকেন্ট জেল (উরু ঘষা এড়াতে)",
+            "title_en": "Vaseline / Lubricant gel (to prevent thigh chafing)",
+            "category": "health",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "হাঁটার সময় উরুর চামড়া ঘষা লাগা থেকে বাঁচাতে ব্যবহার করুন।",
+            "tips_en": "Use to prevent skin chafing on thighs while walking."
+        },
+        {
+            "title_bn": "সুগন্ধিহীন সাবান ও শ্যাম্পু (ইহরামের জন্য)",
+            "title_en": "Unscented soap & shampoo (for Ihram)",
+            "category": "health",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "ইহরাম অবস্থায় সুগন্ধি ব্যবহার নিষিদ্ধ। লেবেল দেখে সুগন্ধিহীন কিনুন।",
+            "tips_en": "Perfumes are forbidden during Ihram. Check labels for unscented products."
+        },
+        {
+            "title_bn": "মাস্ক ও হ্যান্ড স্যানিটাইজার (প্রচুর পরিমাণে)",
+            "title_en": "Mask & hand sanitizer (in abundance)",
+            "category": "health",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "ভিড়ের সময় মাস্ক ব্যবহার করুন। ৫০-১০০টি ডিসপোজেবল মাস্ক রাখুন।",
+            "tips_en": "Use masks in crowded areas. Keep 50-100 disposable masks."
+        },
+        {
+            "title_bn": "অ্যান্টিবায়োটিক ওষুধ (ডাক্তারের পরামর্শে)",
+            "title_en": "Antibiotics (as per doctor's advice)",
+            "category": "health",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "নিউমোনিয়া, টাইফয়েড ইত্যাদির জন্য প্রেসক্রিপশনসহ রাখুন।",
+            "tips_en": "Keep with prescription for pneumonia, typhoid, etc."
+        },
+        {
+            "title_bn": "পেটের ওষুধ (গ্যাস, অ্যাসিডিটি, ডায়রিয়া)",
+            "title_en": "Stomach medicine (Gas, Acidity, Diarrhea)",
+            "category": "health",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "খাবারের পরিবর্তনের কারণে পেটের সমস্যা হতে পারে। প্রয়োজনীয় ওষুধ রাখুন।",
+            "tips_en": "Stomach issues may arise due to food changes. Keep necessary medicines."
+        },
+        {
+            "title_bn": "প্লাস্টার / ব্যান্ডেজ / অ্যান্টিসেপটিক ক্রিম",
+            "title_en": "Plaster / Bandage / Antiseptic cream",
+            "category": "health",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "ছোটখাটো কাটা-ছেঁড়ার জন্য ফার্স্ট এইড বক্স রাখুন।",
+            "tips_en": "Keep a first aid box for minor cuts and injuries."
+        },
+        {
+            "title_bn": "কাশি ও সর্দির ওষুধ",
+            "title_en": "Cough and cold medicine",
+            "category": "health",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "সিরাপ, ট্যাবলেট, নাকের ড্রপ সহ রাখুন। আবহাওয়ার পরিবর্তনে সর্দি হতে পারে।",
+            "tips_en": "Keep syrup, tablets, nasal drops. Cold is common due to weather changes."
+        },
+        {
+            "title_bn": "পাসপোর্ট ও ভিসার কপি (ল্যামিনেটেড)",
+            "title_en": "Passport & Visa copies (laminated)",
+            "category": "documents",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "অরিজিনাল পাসপোর্ট হোটেল সেফে রাখুন। ল্যামিনেটেড কপি সাথে রাখুন।",
+            "tips_en": "Keep original passport in hotel safe. Carry laminated copies with you."
+        },
+        {
+            "title_bn": "হোটেল কার্ড / গাইডের কন্টাক্ট নম্বর (বেশ কয়েকটি কপি)",
+            "title_en": "Hotel card / Guide's contact number (multiple copies)",
+            "category": "documents",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "হোটেলের ঠিকানা আরবি ও ইংরেজিতে লিখে রাখুন। ব্যাগ ও পকেটে আলাদা কপি রাখুন।",
+            "tips_en": "Write hotel address in Arabic and English. Keep copies in bag and pocket."
+        },
+        {
+            "title_bn": "টিকিট / বোর্ডিং পাস (ফ্লাইটের কপি)",
+            "title_en": "Ticket / Boarding pass (flight copies)",
+            "category": "documents",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "ই-টিকিটের প্রিন্টেড কপি ও মোবাইলে স্ক্রিনশট রাখুন।",
+            "tips_en": "Keep printed copies of e-ticket and screenshots on mobile."
+        },
+        {
+            "title_bn": "ভ্যাকসিন কার্ড (মেনিনজাইটিস ও করোনা টিকার সনদ)",
+            "title_en": "Vaccination card (Meningitis & COVID certificate)",
+            "category": "documents",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "সৌদি আরব প্রবেশের জন্য বাধ্যতামূলক। ল্যামিনেট করে রাখুন।",
+            "tips_en": "Mandatory for entry into Saudi Arabia. Get it laminated."
+        },
+        {
+            "title_bn": "পাসপোর্ট সাইজের ছবি (১০-১২ টি)",
+            "title_en": "Passport size photos (10-12 pieces)",
+            "category": "documents",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "ভিসা, নিবন্ধন, জরুরি প্রয়োজনে কাজে লাগবে।",
+            "tips_en": "Useful for visa, registration, and emergency needs."
+        },
+        {
+            "title_bn": "পাওয়ার ব্যাংক (কমপক্ষে ২০০০০ mAh)",
+            "title_en": "Power bank (minimum 20000 mAh)",
+            "category": "essentials",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "মিনা-আরাফাতে চার্জিং পয়েন্ট সীমিত। বড় ক্ষমতার পাওয়ার ব্যাংক নিন।",
+            "tips_en": "Charging points are limited in Mina-Arafah. Take a high-capacity power bank."
+        },
+        {
+            "title_bn": "ইউনিভার্সাল অ্যাডাপ্টার ও এক্সটেনশন কর্ড",
+            "title_en": "Universal adapter & extension cord",
+            "category": "essentials",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "সৌদিতে টাইপ জি সকেট। এক্সটেনশন কর্ডে একসাথে মোবাইল চার্জ করা যাবে।",
+            "tips_en": "Saudi uses Type G sockets. Extension cord allows multiple device charging."
+        },
+        {
+            "title_bn": "পাথর সংগ্রহের ছোট ব্যাগ / পাউচ",
+            "title_en": "Small bag / pouch for pebbles",
+            "category": "essentials",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "মুযদালিফা থেকে ৪৯-৭০টি কঙ্কর সংগ্রহ করতে হবে। ছোট ব্যাগ রাখুন।",
+            "tips_en": "You need to collect 49-70 pebbles from Muzdalifah. Keep a small bag."
+        },
+        {
+            "title_bn": "বিছানা চাদর / হালকা মাদুর (মুযদালিফার রাতের জন্য)",
+            "title_en": "Bed sheet / Light mat (for overnight in Muzdalifah)",
+            "category": "essentials",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "মুযদালিফায় খোলা আকাশের নিচে থাকতে হবে। চাদর ও মাদুর প্রয়োজন।",
+            "tips_en": "You will stay under the open sky in Muzdalifah. A sheet and mat are essential."
+        },
+        {
+            "title_bn": "ছাতা (সাদা রঙের, UV প্রটেকশনযুক্ত)",
+            "title_en": "Umbrella (white, with UV protection)",
+            "category": "essentials",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "সৌদির রোদ খুব তীব্র। সাদা ছাতা উত্তাপ কম শোষণ করে।",
+            "tips_en": "The Saudi sun is very intense. White umbrellas absorb less heat."
+        },
+        {
+            "title_bn": "পানির বোতল (২ লিটার ক্ষমতার, ঠান্ডা রাখার কভারসহ)",
+            "title_en": "Water bottle (2 liter, with insulating cover)",
+            "category": "essentials",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "জমজম পানি ভরে রাখার জন্য। ঠান্ডা রাখার বোতল উত্তম।",
+            "tips_en": "For carrying Zamzam water. Insulated bottles keep water cool."
+        },
+        {
+            "title_bn": "পকেট জায়নামাজ (সফরকারী, ওয়াটারপ্রুফ)",
+            "title_en": "Pocket prayer mat (travel-size, waterproof)",
+            "category": "essentials",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "মিনা-আরাফাতে নামাজের জন্য প্রয়োজন। ভেজা মাটি থেকে রক্ষা পাবে।",
+            "tips_en": "Needed for prayers in Mina-Arafah. Protects from damp ground."
+        },
+        {
+            "title_bn": "নগদ রিয়াল (ছোট নোট - ৫, ১০ রিয়াল বেশি করে)",
+            "title_en": "Cash Riyals (more 5, 10 riyal notes)",
+            "category": "essentials",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "সাদকা, ছোট খরচের জন্য ছোট নোট রাখুন। এটিএম চার্জ বেশি।",
+            "tips_en": "Keep small notes for charity and small expenses. ATM charges are high."
+        },
+        {
+            "title_bn": "ব্যাকপ্যাক / ছোট স্যাচেল (মিনা-আরাফাতে ব্যবহারের জন্য)",
+            "title_en": "Backpack / Small satchel (for use in Mina-Arafah)",
+            "category": "essentials",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "জরুরি জিনিসপত্র বহনের জন্য। হালকা ও আরামদায়ক হোক।",
+            "tips_en": "For carrying essentials. Should be lightweight and comfortable."
+        },
+        {
+            "title_bn": "হালকা তোয়ালে (মাইক্রোফাইবার, ২ টি)",
+            "title_en": "Light towel (microfiber, 2 pieces)",
+            "category": "essentials",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "দ্রুত শুকায় এবং কম জায়গা নেয়। গোসল ও ওজুর জন্য।",
+            "tips_en": "Dries quickly and takes less space. For bathing and Wudu."
+        },
+        {
+            "title_bn": "জিপলক ব্যাগ / প্লাস্টিক ব্যাগ (বিভিন্ন সাইজে)",
+            "title_en": "Ziplock bags / Plastic bags (various sizes)",
+            "category": "essentials",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "ভেজা কাপড়, ময়লা জুতা, খাবার আলাদা রাখার জন্য।",
+            "tips_en": "For separating wet clothes, dirty shoes, and food items."
+        },
+        {
+            "title_bn": "ওয়েট ওয়াইপস / টিস্যু পেপার (প্রচুর পরিমাণে)",
+            "title_en": "Wet wipes / Tissue paper (abundant)",
+            "category": "essentials",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "সুন্নত তাজা হওয়ার পর, হাত-মুখ পরিষ্কারের জন্য।",
+            "tips_en": "For cleaning after Sunnah acts, hands, and face."
+        },
+        {
+            "title_bn": "সানস্ক্রিন লোশন (সুগন্ধিহীন, SPF ৫০+)",
+            "title_en": "Sunscreen lotion (unscented, SPF 50+)",
+            "category": "health",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "ইহরাম অবস্থায় সুগন্ধি নিষিদ্ধ। SPF বেশি হলে ভালো।",
+            "tips_en": "Perfume is forbidden during Ihram. Higher SPF is better."
+        },
+        {
+            "title_bn": "অ্যালুমিনিয়াম ফয়েল রোল (খাবার গরম রাখতে)",
+            "title_en": "Aluminum foil roll (to keep food warm)",
+            "category": "essentials",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "মিনা-আরাফাতে খাবার দ্রুত ঠান্ডা হয়ে যায়। ফয়েলে মুড়িয়ে রাখুন।",
+            "tips_en": "Food cools quickly in Mina-Arafah. Wrap in foil to retain warmth."
+        },
+        {
+            "title_bn": "মিসওয়াক (৩-৪ টি)",
+            "title_en": "Miswak (3-4 pieces)",
+            "category": "essentials",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "নবীজির সুন্নত। দাঁত পরিষ্কারের পাশাপাশি সওয়াবের কাজ।",
+            "tips_en": "Sunnah of the Prophet. Great reward along with dental hygiene."
+        },
+        {
+            "title_bn": "ট্রাভেল পিলো / নেক পিলো",
+            "title_en": "Travel pillow / Neck pillow",
+            "category": "essentials",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "বাসে দীর্ঘ ভ্রমণ ও মিনায় বিশ্রামের জন্য আরামদায়ক।",
+            "tips_en": "Comfortable for long bus journeys and resting in Mina."
+        },
+        {
+            "title_bn": "ইয়ারফোন / হেডফোন (নয়েজ ক্যানসেলিং)",
+            "title_en": "Earphones / Headphones (noise-canceling)",
+            "category": "essentials",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "মিনার টেন্টে অনেক লোকের আওয়াজ থাকবে। জিকির, কুরআন শোনার জন্য।",
+            "tips_en": "Tents in Mina can be noisy. Useful for listening to Quran, Dhikr."
+        },
+        {
+            "title_bn": "মেডিকেল ব্রেসলেট (যাদের অ্যালার্জি/ক্রনিক রোগ আছে)",
+            "title_en": "Medical bracelet (for those with allergies/chronic conditions)",
+            "category": "health",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "জরুরি অবস্থায় চিকিৎসক দ্রুত রোগ সম্পর্কে জানতে পারবেন।",
+            "tips_en": "Helps doctors quickly understand your condition in an emergency."
+        },
+        {
+            "title_bn": "অতিরিক্ত স্যুটকেস লক (TSA অনুমোদিত)",
+            "title_en": "Extra suitcase lock (TSA approved)",
+            "category": "essentials",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "ফ্লাইটে লাগেজ চেক করার সময় নিরাপত্তার জন্য।",
+            "tips_en": "For security when checking luggage on flights."
+        },
+        {
+            "title_bn": "লাগেজ আইডি ট্যাগ (নাম, ঠিকানা, ফোন নম্বরসহ)",
+            "title_en": "Luggage ID tag (with name, address, phone)",
+            "category": "essentials",
+            "is_checked": 0,
+            "is_custom": 0,
+            "tips_bn": "লাগেজ হারিয়ে গেলে শনাক্ত করতে সহায়তা করে। আরবিতেও ঠিকানা লিখুন।",
+            "tips_en": "Helps identify lost luggage. Write address in Arabic as well."
+        }
+    ]
+}
