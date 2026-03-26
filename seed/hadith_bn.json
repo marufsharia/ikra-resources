@@ -1,43 +1,100 @@
-
-  {
-      "chapter": [
-          [
-              1,
-              "ওহীর সূচনা অধ্যায়",
-              1,
-              "১ - ৭"
-          ],
-          [
-              1,
-              "ঈমান",
-              2,
-              "৮ - ৫৮"
-          ],
-          [
-              1,
-              "ইল্‌ম",
-              3,
-              "৫৯ - ১৩৪"
-          ],
+{
+  "books": [
+    [
+      1,
+      "Sahih al-Bukhari",
+      "সহীহ বুখারী",
+      "Sahih al-Bukhari",
+      "Imam Muhammad al-Bukhari",
+      "A collection of authentic Hadith compiled by Imam Bukhari, considered one of the most authentic Hadith collections."
+    ],
+    [
+      2,
+      "Sahih Muslim",
+      "সহীহ মুসলিম",
+      "Sahih Muslim",
+      "Imam Muslim",
+      "A collection of authentic Hadith compiled by Imam Muslim, second only to Sahih al-Bukhari in authenticity."
+    ],
+    [
+      3,
+      "Sunan Abu Dawood",
+      "সুনান আবু দাউদ",
+      "Sunan Abu Dawood",
+      "Imam Abu Dawood",
+      "A collection of Hadith focusing on practical aspects of Islamic law compiled by Abu Dawood."
+    ],
+    [
+      4,
+      "Sunan al-Tirmidhi",
+      "সুনান আত-তিরমিজি",
+      "Sunan al-Tirmidhi",
+      "Imam al-Tirmidhi",
+      "A Hadith collection highlighting the authenticity and classification of narrations, compiled by Imam Tirmidhi."
+    ],
+    [
+      5,
+      "Sunan al-Nasa'i",
+      "সুনান আন-নাসাঈ",
+      "Sunan al-Nasa'i",
+      "Imam al-Nasa'i",
+      "A Hadith collection focusing on Islamic jurisprudence, compiled by Imam al-Nasa'i."
+    ],
+    [
+      6,
+      "Sunan Ibn Majah",
+      "সুনান ইবন মাজাহ",
+      "Sunan Ibn Majah",
+      "Imam Ibn Majah",
+      "One of the six major Hadith collections, containing Hadiths related to legal rulings, compiled by Ibn Majah."
+    ],
+    [
+      7,
+      "Muwatta Malik",
+      "মুয়াত্তা মালিক",
+      "Muwatta Malik",
+      "Imam Malik ibn Anas",
+      "An early Hadith collection combined with the opinions of Imam Malik on fiqh and Islamic law."
+    ]
   ],
-  
+  "chapter": [
+    [
+      1,
+      "ওহীর সূচনা অধ্যায়",
+      1,
+      "১ - ৭"
+    ],
+    [
+      1,
+      "ঈমান",
+      2,
+      "৮ - ৫৮"
+    ],
+    [
+      1,
+      "ইল্‌ম",
+      3,
+      "৫৯ - ১৩৪"
+    ]
+  ],
   "hadiths": [
-      [
-        1,
-        1,
-        "আমি ‘উমর ইব্‌নুল খাত্তাব (রাঃ)-কে মিম্বারের উপর দাঁড়িয়ে বলতে শুনেছিঃ আমি আল্লাহর রসূল (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম)-কে বলতে শুনেছিঃ কাজ (এর প্রাপ্য হবে) নিয়ত অনুযায়ী। আর মানুষ তার নিয়ত অনুযায়ী প্রতিফল পাবে। তাই যার হিজরত হবে ইহকাল লাভের অথবা কোন মহিলাকে বিবাহ করার উদ্দেশ্যে- তবে তার হিজরত সে উদ্দেশ্যেই হবে, যে জন্যে, সে হিজরত করেছে। \r\n(৫৪, ২৫২৯, ৩৮৯৮, ৫০৭০, ৬৬৮৯, ৬৯৫৩; মুসলিম ২৩\/৪৫ হাঃ ১৯০৭, আহমাদ ১৬৮) ( আধুনিক প্রকাশনী- ১, ইসলামিক ফাউন্ডেশন ১)",
-        null,
-        1,
-        "‘আলক্বামাহ ইব্‌নু ওয়াক্কাস আল-লায়সী (রহঃ)",
-        2,
-        0
-      ],
+    [
+      1,
+      1,
+      "আমি ‘উমর ইব্‌নুল খাত্তাব (রাঃ)-কে মিম্বারের উপর দাঁড়িয়ে বলতে শুনেছিঃ আমি আল্লাহর রসূল (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম)-কে বলতে শুনেছিঃ কাজ (এর প্রাপ্য হবে) নিয়ত অনুযায়ী। আর মানুষ তার নিয়ত অনুযায়ী প্রতিফল পাবে। তাই যার হিজরত হবে ইহকাল লাভের অথবা কোন মহিলাকে বিবাহ করার উদ্দেশ্যে- তবে তার হিজরত সে উদ্দেশ্যেই হবে, যে জন্যে, সে হিজরত করেছে। \r\n(৫৪, ২৫২৯, ৩৮৯৮, ৫০৭০, ৬৬৮৯, ৬৯৫৩; মুসলিম ২৩\/৪৫ হাঃ ১৯০৭, আহমাদ ১৬৮) ( আধুনিক প্রকাশনী- ১, ইসলামিক ফাউন্ডেশন ১)",
+      null,
+      1,
+      "‘আলক্বামাহ ইব্‌নু ওয়াক্কাস আল-লায়সী (রহঃ)",
+      2,
+      0
+    ]
   ],
-    "validities": [
-          [
-              1,
-              "ওহীর সূচনা অধ্যায়",
-              1,
-              "১ - ৭"
-          ],]
-  }
+  "validities": [
+    [
+      1,
+      "ওহীর সূচনা অধ্যায়",
+      1,
+      "১ - ৭"
+    ]
+  ]
+}
