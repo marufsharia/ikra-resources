@@ -58,5 +58,35 @@
     ],
     "fallback_urls": [],
     "is_youtube": true
+  },
+  {
+    "id": 5,
+    "name": "Juz 29 & Juz 30 ",
+    "logo_url": "https://yt3.ggpht.com/O5YekBwgBNjrby6WdgFbXKrqKY9A8KodbJHnq6Iw9BiIsx84vopnsPfHqKoSFp41wOviJGoYaTI=s48-c-k-c0x00ffffff-no-rj",
+    "description": "Experience a complete and crystal-clear recitation of Juz Tabarak by Imam Feysal Mohammed on Tarteel Network. Enhanced with visuals that amplify its message, this Juz' contains 11 Surahs highlighting the Day of Judgment, creation's majesty, and humanity's diverse paths. A spiritual journey designed to awaken purpose.",
+    "streams": [
+      {
+        "url": "https://www.youtube.com/watch?v=GVgkX-Srmv8",
+        "quality": "HD",
+        "type": "youtube"
+      }
+    ],
+    "fallback_urls": [],
+    "is_youtube": true
+  },
+  {
+    "id": 5,
+    "name": "Surah Al-Mulk (Surah 67, Quran) - Sheikh Mishary Rashid Al Afasy”",
+    "logo_url": "https://i.vimeocdn.com/portrait/5611727_72x72?sig=f23342db8f799bb15cc94d5fc42cce2e829a469cabbb6777b690874940a2dc1e&v=1&region=us",
+    "description": "Surah Al-Mulk (Surah 67, Quran) - Sheikh Mishary Rashid Al Afasy”",
+    "streams": [
+      {
+        "url": "https://player.vimeo.com/video/234210019",
+        "quality": "HD",
+        "type": "vimeo"
+      }
+    ],
+    "fallback_urls": [],
+    "is_youtube": false
   }
 ]
