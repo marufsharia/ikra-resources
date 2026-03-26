@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Live Makkah",
+    "logo_url": "https://i.imgur.com/makkah.png",
+    "description": "Live from Masjid al-Haram",
+    "streams": [
+      {
+        "url": "https://www.youtube.com/watch?v=7pA7vU3JTAw",
+        "quality": "HD",
+        "type": "youtube"
+      }
+    ],
+    "fallback_urls": [],
+    "is_youtube": true
+  },
+  {
+    "id": 2,
+    "name": "Madina Live TV",
+    "logo_url": "https://i.imgur.com/madina.png",
+    "description": "Live from Masjid an-Nabawi",
+    "streams": [
+      {
+        "url": "https://www.youtube.com/watch?v=vtMZrb5jzZs",
+        "quality": "HD",
+        "type": "youtube"
+      }
+    ],
+    "fallback_urls": [],
+    "is_youtube": true
+  },
+  {
+    "id": 3,
+    "name": "ARY Qtv",
+    "logo_url": "https://i.imgur.com/aryqtv.png",
+    "description": "Islamic programs and lectures",
+    "streams": [
+      {
+        "url": "https://www.youtube.com/watch?v=k0unDXRANyc",
+        "quality": "HD",
+        "type": "youtube"
+      }
+    ],
+    "fallback_urls": [],
+    "is_youtube": true
+  },
+  {
+    "id": 4,
+    "name": "Al Ehsaan TV",
+    "logo_url": "https://i.imgur.com/ehsaan.png",
+    "description": "Islamic content and live sessions",
+    "streams": [
+      {
+        "url": "https://www.youtube.com/watch?v=ePzppodyAZg",
+        "quality": "HD",
+        "type": "youtube"
+      }
+    ],
+    "fallback_urls": [],
+    "is_youtube": true
+  }
+]
